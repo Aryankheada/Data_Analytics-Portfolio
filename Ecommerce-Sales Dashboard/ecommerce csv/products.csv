@@ -1,0 +1,1001 @@
+product_id,product_name,category,brand,price,cost_price,stock_quantity,rating
+1,Product_1,Beauty,Kumer-Bhalla,46921,32639,904,2.2
+2,Product_2,Books,"Goel, Bali and Handa",46671,26866,853,4.8
+3,Product_3,Healthcare,"Bassi, Sen and Mane",42812,31276,818,4.9
+4,Product_4,Home,"Buch, Saran and Uppal",10668,7252,707,4.0
+5,Product_5,Beauty,Madan-Roy,43766,27016,204,1.6
+6,Product_6,Books,Sagar-Hayre,32305,14388,965,5.0
+7,Product_7,Electronics,Wable LLC,19950,10087,18,2.4
+8,Product_8,Beauty,Saraf and Sons,17142,9611,178,4.3
+9,Product_9,Fashion,Bhakta PLC,33045,13693,345,2.7
+10,Product_10,Grocery,Grover LLC,40522,20342,498,2.0
+11,Product_11,Electronics,Baria LLC,22353,16836,788,4.5
+12,Product_12,Fashion,"Bhatnagar, Varkey and Dugar",17580,14122,723,1.2
+13,Product_13,Fashion,Sibal LLC,28743,21831,998,1.4
+14,Product_14,Fashion,"Andra, Bawa and Mann",40064,27016,843,3.2
+15,Product_15,Fashion,"Edwin, Sankaran and Doctor",33296,14897,891,1.8
+16,Product_16,Home,"Upadhyay, Kala and Ratta",23750,11178,725,2.8
+17,Product_17,Fashion,"Zacharia, Thaker and Kala",33204,20728,157,3.6
+18,Product_18,Fashion,Arora-Badal,21978,16892,868,1.8
+19,Product_19,Electronics,"Sharaf, Edwin and Barad",27296,20366,251,4.3
+20,Product_20,Beauty,Bhalla and Sons,31092,17212,87,2.1
+21,Product_21,Sports,"Roy, Kota and Dhar",46921,34706,644,3.7
+22,Product_22,Books,Konda-Mani,9985,7378,806,1.9
+23,Product_23,Books,Jain-Sachar,28153,16498,919,2.8
+24,Product_24,Sports,"Deshpande, Ramaswamy and Thaker",33876,25663,966,1.1
+25,Product_25,Fashion,Loke and Sons,9591,7160,86,2.4
+26,Product_26,Beauty,Dua-Tandon,26372,22201,444,1.2
+27,Product_27,Beauty,"Devan, Edwin and Jaggi",49804,20752,924,3.3
+28,Product_28,Home,Kulkarni PLC,41443,34854,429,2.6
+29,Product_29,Home,Arora Inc,44671,31955,738,4.0
+30,Product_30,Home,Chaudhuri-Acharya,22604,9121,921,3.1
+31,Product_31,Healthcare,"Srinivas, Ranganathan and Acharya",9674,6918,659,1.8
+32,Product_32,Healthcare,Lal Inc,35729,24330,714,2.4
+33,Product_33,Grocery,Lad-Garg,42566,24774,902,2.2
+34,Product_34,Books,Srinivasan Ltd,2472,1586,742,3.9
+35,Product_35,Home,Gandhi PLC,8307,5268,218,1.4
+36,Product_36,Sports,"Bera, Gupta and Tailor",36211,19572,775,3.5
+37,Product_37,Home,"Ramanathan, Boase and Date",1584,653,247,4.3
+38,Product_38,Fashion,Bedi LLC,19969,14516,749,1.2
+39,Product_39,Sports,Zacharia-Kala,24493,12660,126,1.2
+40,Product_40,Healthcare,Gala PLC,42711,35176,305,3.3
+41,Product_41,Grocery,Chacko-Taneja,391,236,824,4.0
+42,Product_42,Grocery,Mani-Badal,38165,24979,358,2.2
+43,Product_43,Beauty,Gulati LLC,43757,32955,731,2.5
+44,Product_44,Sports,Banik-Chahal,48383,24744,528,3.3
+45,Product_45,Beauty,"Solanki, Jain and Gola",23726,14340,728,2.7
+46,Product_46,Electronics,Garde-Tripathi,27054,11819,435,4.6
+47,Product_47,Fashion,Bala-Sha,31261,15525,378,3.7
+48,Product_48,Books,"Dubey, Thakur and Tank",26444,17577,892,2.1
+49,Product_49,Healthcare,Raman-Ghose,32741,22473,705,4.7
+50,Product_50,Books,Shah-Brar,32132,23432,843,1.7
+51,Product_51,Healthcare,Kata-Ganesh,33197,15177,132,4.9
+52,Product_52,Fashion,"Ray, Sarraf and Sule",33682,26557,711,1.9
+53,Product_53,Beauty,"Bains, Sarna and Virk",31071,12884,966,3.2
+54,Product_54,Books,Sathe-Saraf,7833,5253,112,1.5
+55,Product_55,Beauty,Varma LLC,37521,19897,120,2.5
+56,Product_56,Healthcare,Chandran-Baral,24590,13191,28,4.2
+57,Product_57,Books,Verma-Sood,9365,7049,49,4.7
+58,Product_58,Grocery,Chakrabarti Ltd,20049,16040,187,4.3
+59,Product_59,Sports,"Sha, Bhasin and Bali",32083,12863,69,4.5
+60,Product_60,Home,"Mall, Varghese and Subramanian",27416,16902,579,2.8
+61,Product_61,Healthcare,"Seshadri, Rajagopal and Mani",22189,16677,854,3.9
+62,Product_62,Beauty,Koshy-Chaudhuri,39745,18273,516,3.5
+63,Product_63,Healthcare,D’Alia PLC,49967,30103,152,4.5
+64,Product_64,Books,Singh PLC,21363,9403,396,1.9
+65,Product_65,Electronics,Sani-Dar,25962,14345,981,3.7
+66,Product_66,Fashion,Dyal LLC,29088,21268,886,1.7
+67,Product_67,Home,"Rout, Bumb and Goel",1675,1101,574,3.6
+68,Product_68,Grocery,Saran-Varghese,42249,27534,978,3.5
+69,Product_69,Grocery,"Kanda, Suri and Jani",37854,28047,768,2.9
+70,Product_70,Beauty,Basu-Batta,1273,578,985,1.1
+71,Product_71,Healthcare,"Deshpande, Cheema and Bhakta",13537,6909,86,4.2
+72,Product_72,Electronics,"Balasubramanian, Varughese and Shroff",39820,21669,503,4.4
+73,Product_73,Beauty,"Kapoor, Gill and Upadhyay",1574,870,424,1.1
+74,Product_74,Home,Subramanian PLC,34646,18806,93,1.5
+75,Product_75,Home,Garg-Yogi,6559,4222,147,1.7
+76,Product_76,Books,"Kakar, Ravel and Handa",5923,2780,694,1.7
+77,Product_77,Beauty,"Behl, Swaminathan and Ahuja",40320,33566,27,3.9
+78,Product_78,Sports,Borah-Sekhon,19581,11268,145,2.7
+79,Product_79,Fashion,Dey-Kamdar,21297,10990,53,1.8
+80,Product_80,Grocery,Bains and Sons,49341,32991,504,3.0
+81,Product_81,Fashion,Sundaram LLC,33107,18979,275,1.2
+82,Product_82,Fashion,Kothari PLC,30512,19799,495,1.1
+83,Product_83,Electronics,Kar Group,41569,20999,275,3.2
+84,Product_84,Grocery,"Suri, Walla and Chaudry",38465,27071,781,3.2
+85,Product_85,Books,Raju and Sons,8279,4446,456,1.3
+86,Product_86,Beauty,Ravel and Sons,41717,26081,382,3.2
+87,Product_87,Books,Ray-Subramanian,11072,8325,984,4.6
+88,Product_88,Healthcare,"Sampath, Sane and Saha",29655,12419,984,4.3
+89,Product_89,Beauty,Toor-Biswas,19006,13187,0,1.2
+90,Product_90,Home,Sharaf PLC,31650,16552,859,3.7
+91,Product_91,Grocery,Wali-Gokhale,23080,17981,599,4.4
+92,Product_92,Fashion,"Talwar, Mandal and Srinivasan",18486,7772,307,1.4
+93,Product_93,Beauty,"Bala, Basak and Sahota",45822,20864,742,3.2
+94,Product_94,Grocery,Raja-Saraf,18364,14603,625,3.0
+95,Product_95,Sports,Konda and Sons,20910,16681,650,2.0
+96,Product_96,Home,Gara Group,49378,35477,251,3.6
+97,Product_97,Healthcare,Ravel Group,21128,11699,982,3.4
+98,Product_98,Beauty,"Uppal, Dyal and Bala",1090,884,661,4.7
+99,Product_99,Electronics,"Doshi, Atwal and Korpal",39947,24544,688,1.7
+100,Product_100,Healthcare,Cherian-Shukla,36474,29283,780,2.6
+101,Product_101,Fashion,"Hayre, Varty and Jhaveri",5368,4049,551,1.1
+102,Product_102,Fashion,Saxena-Soni,44064,26452,361,4.9
+103,Product_103,Sports,Shroff-Kibe,24716,19089,396,1.7
+104,Product_104,Fashion,Karnik Group,45730,38537,473,2.5
+105,Product_105,Grocery,"Kalla, Badami and Basu",12697,7618,760,1.1
+106,Product_106,Sports,"Raju, Grover and Goel",18474,13047,196,1.4
+107,Product_107,Grocery,Vohra Ltd,40252,27425,239,4.9
+108,Product_108,Healthcare,"Varty, Sachar and Bhatnagar",23839,9930,926,3.8
+109,Product_109,Grocery,"Kadakia, Rao and Sahni",39766,19647,840,3.6
+110,Product_110,Healthcare,Mahal Inc,7320,5793,174,3.2
+111,Product_111,Beauty,Ramakrishnan LLC,43293,31710,66,3.4
+112,Product_112,Home,Sahni PLC,48938,21007,955,3.3
+113,Product_113,Home,"Wadhwa, Sem and Shah",14989,11938,196,4.4
+114,Product_114,Home,Choudhry PLC,1565,1324,697,3.2
+115,Product_115,Books,Kala-Venkatesh,29798,11945,656,3.7
+116,Product_116,Sports,Dalal Inc,42650,18055,442,4.4
+117,Product_117,Healthcare,Bhandari LLC,26715,13980,507,2.4
+118,Product_118,Grocery,Lad-Mannan,49793,20891,48,2.1
+119,Product_119,Sports,"Sabharwal, Bora and Vala",27579,17639,5,2.6
+120,Product_120,Electronics,Choudhry-Chanda,21985,9603,755,1.9
+121,Product_121,Fashion,Sharma-Dhar,45240,26724,939,2.0
+122,Product_122,Fashion,Shankar LLC,10829,5935,641,3.5
+123,Product_123,Electronics,Raj and Sons,1876,1155,606,4.2
+124,Product_124,Grocery,Ahluwalia LLC,21958,17088,110,2.9
+125,Product_125,Sports,Kumer and Sons,22384,17339,532,4.2
+126,Product_126,Healthcare,"Kala, Issac and Shenoy",4828,3616,782,1.4
+127,Product_127,Fashion,Yogi-Jha,29308,19358,997,1.2
+128,Product_128,Fashion,Bhattacharyya Inc,2235,1273,801,1.5
+129,Product_129,Books,Dara-Chana,29011,12319,67,1.4
+130,Product_130,Home,Yohannan-Keer,3706,2415,870,2.5
+131,Product_131,Books,Sant PLC,6330,4290,238,4.5
+132,Product_132,Healthcare,Sinha PLC,43285,29468,393,2.9
+133,Product_133,Fashion,Anand Group,28106,22371,347,3.6
+134,Product_134,Healthcare,Subramanian LLC,44337,33355,529,2.3
+135,Product_135,Electronics,Sankaran-Tandon,12664,5681,609,3.9
+136,Product_136,Grocery,"Choudhury, Ratta and Dey",38905,29382,926,3.3
+137,Product_137,Sports,Ramanathan LLC,41820,26304,431,2.9
+138,Product_138,Grocery,"Sant, Kalla and Dixit",40738,24446,140,4.2
+139,Product_139,Books,"Lata, Dube and Thakkar",4014,1836,525,4.8
+140,Product_140,Beauty,"Varty, Bhandari and Sangha",49488,27762,150,2.9
+141,Product_141,Sports,Wagle and Sons,39589,21944,993,1.0
+142,Product_142,Beauty,Sangha and Sons,38482,26781,58,1.9
+143,Product_143,Books,"Tiwari, Din and Dutta",36714,28872,352,1.8
+144,Product_144,Grocery,Chopra Group,13181,9071,804,1.3
+145,Product_145,Healthcare,Bobal Inc,12459,8727,614,3.8
+146,Product_146,Sports,Raju-Gade,37956,24851,630,2.2
+147,Product_147,Healthcare,Sem Inc,21586,10210,897,4.2
+148,Product_148,Electronics,Bali Group,2815,1754,654,1.9
+149,Product_149,Grocery,Bawa-Yadav,15141,9235,244,2.9
+150,Product_150,Books,Toor Group,21776,16621,210,2.6
+151,Product_151,Fashion,Sehgal-Gaba,490,276,366,1.1
+152,Product_152,Healthcare,Johal-Keer,7599,3526,199,3.5
+153,Product_153,Electronics,Tata-Khurana,23637,9921,203,1.8
+154,Product_154,Home,Kunda Inc,11462,5714,736,1.7
+155,Product_155,Grocery,"Dara, Sura and Jha",36390,18583,22,1.7
+156,Product_156,Electronics,Dixit LLC,17206,13933,851,3.7
+157,Product_157,Fashion,Rajagopal-Hayre,24883,17285,346,4.7
+158,Product_158,Sports,Kota PLC,20043,12131,828,2.5
+159,Product_159,Books,"Ray, Dara and Loyal",11280,9289,899,3.8
+160,Product_160,Beauty,Bhattacharyya-Bhargava,7815,3633,813,1.8
+161,Product_161,Sports,Deep-Bhandari,34951,19928,325,3.4
+162,Product_162,Electronics,Dutt-Loyal,41740,21289,781,3.5
+163,Product_163,Home,Yohannan and Sons,12442,9760,808,1.6
+164,Product_164,Home,Khosla LLC,16248,6888,893,1.5
+165,Product_165,Healthcare,"Sarma, Ghosh and Buch",33359,27880,214,3.9
+166,Product_166,Fashion,Kannan-Atwal,30895,23355,171,3.0
+167,Product_167,Sports,Arya Inc,49287,39286,510,3.1
+168,Product_168,Sports,Bali-Chopra,11780,6417,538,3.8
+169,Product_169,Healthcare,"Krishnan, Butala and Kapadia",46950,38972,274,3.3
+170,Product_170,Electronics,Shetty-Vasa,41868,34102,212,1.9
+171,Product_171,Grocery,"Mand, Bhatti and Thaman",13353,8057,405,1.9
+172,Product_172,Beauty,Bobal-Ramesh,27904,22320,957,4.4
+173,Product_173,Beauty,"Kaul, Atwal and Hora",16730,10836,769,1.3
+174,Product_174,Grocery,Dugal-Sheth,29181,18485,597,1.2
+175,Product_175,Books,Ram-Som,33621,22845,461,2.9
+176,Product_176,Healthcare,"Saha, Tiwari and Raval",26851,15181,324,2.1
+177,Product_177,Grocery,Butala and Sons,1669,802,271,3.6
+178,Product_178,Home,Shere-Seshadri,23583,18999,862,3.0
+179,Product_179,Home,Shroff-Sengupta,35875,24740,948,1.9
+180,Product_180,Electronics,Hayer PLC,7821,3379,559,1.8
+181,Product_181,Home,"Deshpande, Yohannan and Luthra",12937,9105,309,4.0
+182,Product_182,Grocery,De-Hayer,44846,35000,722,3.4
+183,Product_183,Home,Barman Group,9085,7715,8,4.1
+184,Product_184,Books,"Rau, Apte and Mangat",18521,14261,968,2.6
+185,Product_185,Electronics,"Ram, Kuruvilla and Agate",38057,28200,483,3.6
+186,Product_186,Books,"Gupta, Kale and Srivastava",49933,41353,233,1.9
+187,Product_187,Grocery,Srivastava-Rama,49145,24299,528,3.3
+188,Product_188,Healthcare,Choudhury-Johal,36266,26870,348,4.2
+189,Product_189,Books,"Kata, Majumdar and Sani",20567,16054,788,4.8
+190,Product_190,Healthcare,Dyal-Ben,27423,13555,873,3.2
+191,Product_191,Beauty,Savant Ltd,24606,11380,312,4.8
+192,Product_192,Sports,Kala Ltd,684,427,347,1.9
+193,Product_193,Books,"Goswami, Magar and Vasa",27949,19804,781,4.1
+194,Product_194,Electronics,"Bose, Madan and Mand",35282,18870,581,4.1
+195,Product_195,Sports,"Kanda, Ramanathan and Bir",9168,4301,581,3.5
+196,Product_196,Books,Dhar and Sons,39568,32097,390,1.8
+197,Product_197,Books,"Virk, Varty and Johal",25650,10995,192,2.9
+198,Product_198,Healthcare,"Shah, Kade and Gupta",21600,14175,654,4.6
+199,Product_199,Beauty,Chacko PLC,6160,2939,32,4.3
+200,Product_200,Beauty,Kaul-Chaudry,39592,24542,203,1.3
+201,Product_201,Grocery,D’Alia-Sibal,25339,13371,298,3.6
+202,Product_202,Sports,Soni Group,4636,2802,530,1.0
+203,Product_203,Books,Kumar Inc,21465,16890,400,1.6
+204,Product_204,Books,Dayal PLC,7307,3347,489,4.0
+205,Product_205,Grocery,Sarna Group,25543,21195,133,4.5
+206,Product_206,Healthcare,"Mangat, Babu and Badami",20350,12097,162,3.4
+207,Product_207,Healthcare,"Chaudhari, Bala and Rau",20386,13543,282,1.8
+208,Product_208,Books,Malhotra-Sankaran,9401,5646,619,4.2
+209,Product_209,Healthcare,Biswas-Dyal,34512,18912,471,2.9
+210,Product_210,Home,Buch-Comar,2611,1910,661,4.5
+211,Product_211,Home,Doctor LLC,29954,16655,400,3.5
+212,Product_212,Beauty,Tella-Sani,11527,6763,921,3.5
+213,Product_213,Beauty,Banik-Vohra,28366,17190,715,3.3
+214,Product_214,Electronics,Chaudhari and Sons,25841,18460,245,4.5
+215,Product_215,Home,"Khanna, Dugar and Mahajan",10400,5441,682,4.7
+216,Product_216,Grocery,Deep-Bose,45797,33291,930,3.0
+217,Product_217,Sports,Sampath-Sunder,49979,32424,78,4.0
+218,Product_218,Sports,Kapur-Raj,33106,24662,419,2.8
+219,Product_219,Electronics,Ratti Inc,16615,8196,473,1.1
+220,Product_220,Healthcare,Dhillon-Raman,41918,29867,390,2.4
+221,Product_221,Books,Bhagat and Sons,26221,20586,38,1.0
+222,Product_222,Beauty,"Date, Dhar and Agate",7565,5439,334,3.7
+223,Product_223,Fashion,Handa LLC,30474,18837,84,3.2
+224,Product_224,Healthcare,"Agarwal, Ghose and Dave",15928,11485,143,2.9
+225,Product_225,Beauty,Lad-Korpal,18343,14283,858,1.1
+226,Product_226,Fashion,Karpe LLC,6637,3184,547,4.0
+227,Product_227,Electronics,Lall PLC,11089,4822,693,2.1
+228,Product_228,Grocery,Jaggi Inc,28928,16232,731,1.1
+229,Product_229,Healthcare,"Lanka, Garde and Barad",44289,28324,713,1.2
+230,Product_230,Fashion,Ghosh-Upadhyay,41651,31870,399,3.8
+231,Product_231,Electronics,Lala and Sons,29147,12346,49,4.1
+232,Product_232,Sports,Soman-Uppal,13271,10855,930,2.0
+233,Product_233,Electronics,Dyal Ltd,6039,2459,14,2.3
+234,Product_234,Fashion,Gandhi Ltd,12642,8925,225,4.8
+235,Product_235,Beauty,"Sekhon, Shanker and Som",6380,4839,741,1.7
+236,Product_236,Sports,Sharma-Batra,27292,17211,330,3.2
+237,Product_237,Books,"Korpal, Kade and Mani",12472,8494,961,2.7
+238,Product_238,Sports,Mallick-Andra,15281,7582,331,1.7
+239,Product_239,Electronics,"Raman, Bumb and Sinha",26404,18332,398,1.9
+240,Product_240,Home,"Kunda, Goswami and Ratta",14474,6219,665,3.5
+241,Product_241,Grocery,Vaidya and Sons,2929,1260,420,2.2
+242,Product_242,Fashion,Yadav-Dugal,39297,24553,729,3.1
+243,Product_243,Fashion,"Kothari, Bhardwaj and Toor",37353,17823,614,2.3
+244,Product_244,Beauty,"Zachariah, Ganesan and Jha",41394,29528,340,1.7
+245,Product_245,Sports,"Kara, Handa and Borra",49969,39864,871,3.7
+246,Product_246,Healthcare,Chadha PLC,4474,2464,391,3.0
+247,Product_247,Electronics,"Samra, Bath and Rajagopal",48665,24555,238,1.1
+248,Product_248,Home,Kale Ltd,49787,40006,242,4.0
+249,Product_249,Fashion,"Hegde, Raja and Magar",49676,25314,61,1.6
+250,Product_250,Beauty,Chowdhury-Varma,32734,17462,384,1.8
+251,Product_251,Healthcare,Kumer-Manne,2534,1285,756,4.5
+252,Product_252,Electronics,"Bhalla, Shah and Dara",8849,4647,533,4.2
+253,Product_253,Home,Lad-Mammen,27240,18839,768,1.1
+254,Product_254,Grocery,"Kuruvilla, Sarkar and Dua",48079,26398,210,3.2
+255,Product_255,Grocery,Varty-Bhardwaj,43631,36858,622,4.5
+256,Product_256,Healthcare,Gulati Group,34225,18643,644,1.0
+257,Product_257,Grocery,Kunda-Mahajan,32270,13924,53,3.5
+258,Product_258,Beauty,"Sahni, Hans and Mandal",9325,7667,93,1.7
+259,Product_259,Grocery,Chaudhary and Sons,36019,27880,241,3.0
+260,Product_260,Home,Vora-Deshpande,27984,20323,168,3.9
+261,Product_261,Grocery,"Batta, Contractor and Bajaj",16101,9512,310,2.1
+262,Product_262,Grocery,Sampath Ltd,29427,24585,278,4.4
+263,Product_263,Sports,Deo Inc,31584,13770,407,2.5
+264,Product_264,Books,Hari-Das,30898,18496,778,1.6
+265,Product_265,Books,Bhattacharyya PLC,31638,12937,437,4.4
+266,Product_266,Home,Ramanathan-Bains,49782,40219,609,3.1
+267,Product_267,Home,Som PLC,36281,26375,389,2.9
+268,Product_268,Healthcare,Sinha-Banik,29777,15705,73,2.3
+269,Product_269,Beauty,Mahajan-Khare,46899,28663,938,1.8
+270,Product_270,Sports,Lala Ltd,891,701,503,2.6
+271,Product_271,Sports,"Bandi, Hayer and Mann",27301,22472,393,3.0
+272,Product_272,Fashion,Shere-Jha,42061,35515,418,4.5
+273,Product_273,Beauty,Shan Group,8207,4704,198,4.1
+274,Product_274,Sports,Bhargava Inc,16778,12534,521,3.8
+275,Product_275,Electronics,Kohli-Taneja,41664,29573,666,2.5
+276,Product_276,Grocery,Kala-Bajwa,27839,20351,489,1.1
+277,Product_277,Electronics,"Wagle, Dayal and Vora",23735,16233,714,3.7
+278,Product_278,Healthcare,"Bhatia, Balan and Basak",9741,5041,966,3.7
+279,Product_279,Beauty,"Mahajan, Andra and Sachar",16715,8546,12,1.5
+280,Product_280,Books,Gole PLC,6099,4208,407,3.8
+281,Product_281,Grocery,Rau-Sampath,5315,3366,897,2.7
+282,Product_282,Home,"Sood, Dhar and Khosla",28025,14399,512,4.9
+283,Product_283,Home,Char-Kala,43204,34519,751,2.6
+284,Product_284,Fashion,Agate-Borde,47737,37771,651,3.3
+285,Product_285,Home,"Upadhyay, Master and Sarkar",22620,17336,766,1.8
+286,Product_286,Home,Yogi-Sachdeva,49089,28426,6,4.9
+287,Product_287,Fashion,Sehgal Inc,32275,12932,792,3.8
+288,Product_288,Home,"Cheema, Dua and Bains",34453,20243,750,2.7
+289,Product_289,Beauty,Bath-Dua,11610,6601,202,2.9
+290,Product_290,Healthcare,"Anand, Keer and Goyal",32989,27275,580,4.3
+291,Product_291,Beauty,Rajagopal Ltd,12215,5990,828,4.0
+292,Product_292,Books,Mammen LLC,17046,14358,451,3.5
+293,Product_293,Beauty,Bahri PLC,40972,18402,81,2.2
+294,Product_294,Fashion,"Varkey, Grewal and Seshadri",24804,11313,350,1.1
+295,Product_295,Fashion,"Gera, Das and Bhatia",15436,9493,9,1.2
+296,Product_296,Electronics,Doshi-Raval,49319,40927,99,1.8
+297,Product_297,Home,Bhagat Group,525,298,954,2.9
+298,Product_298,Books,Sidhu-Mahal,49654,27392,344,2.5
+299,Product_299,Grocery,"Gera, Char and Kota",22533,19147,963,2.4
+300,Product_300,Electronics,Loyal-Rana,26164,14921,998,2.4
+301,Product_301,Electronics,"Sami, Lanka and Ghose",21693,16547,467,4.5
+302,Product_302,Beauty,"Ramachandran, Chandran and Jha",26382,19162,26,3.4
+303,Product_303,Grocery,Ravel-Deshpande,34825,18309,377,2.8
+304,Product_304,Healthcare,Kulkarni and Sons,45019,31355,527,2.7
+305,Product_305,Sports,"Shroff, Choudhary and Char",12366,4963,17,3.5
+306,Product_306,Sports,Upadhyay LLC,3048,2549,694,2.8
+307,Product_307,Fashion,"Rattan, Dugar and Dash",39814,24606,356,2.7
+308,Product_308,Fashion,"Kade, Bhalla and Yadav",31253,26380,751,2.5
+309,Product_309,Beauty,Dash and Sons,39841,19433,890,3.1
+310,Product_310,Electronics,"Agrawal, Bhattacharyya and Kala",37529,28266,130,3.0
+311,Product_311,Healthcare,Brar Group,5757,3083,172,4.6
+312,Product_312,Grocery,"Mani, Rout and Luthra",7631,4708,249,1.8
+313,Product_313,Fashion,"Sengupta, Wali and Kashyap",49415,40762,108,2.7
+314,Product_314,Sports,"Khalsa, Shankar and Kale",46958,19400,924,2.5
+315,Product_315,Home,"Butala, Bandi and Barad",18423,9196,681,2.9
+316,Product_316,Beauty,Devi Group,43998,20036,944,3.1
+317,Product_317,Sports,"Thaker, Kamdar and Arora",47590,29571,892,1.9
+318,Product_318,Fashion,"Anne, Divan and Sangha",37796,28152,659,2.4
+319,Product_319,Books,"Bandi, Sule and Krish",47068,34563,669,3.6
+320,Product_320,Books,"Deep, Samra and Srivastava",36874,30782,827,1.9
+321,Product_321,Fashion,"Dewan, Chander and Kade",17029,7698,114,1.4
+322,Product_322,Grocery,"Kapur, Ray and Buch",48584,32380,762,4.8
+323,Product_323,Sports,Guha-Lad,37591,21257,976,2.5
+324,Product_324,Electronics,Rana-Varghese,48344,19374,604,3.1
+325,Product_325,Sports,Raj Group,25487,21432,789,2.5
+326,Product_326,Beauty,Shetty Group,44568,36557,532,3.7
+327,Product_327,Books,"Saha, Handa and Buch",38767,19382,9,3.2
+328,Product_328,Home,"Raval, Ramaswamy and Gour",30236,16392,857,1.9
+329,Product_329,Home,Rao-Chakraborty,44613,26995,149,4.0
+330,Product_330,Sports,Mangat-Kohli,46119,19160,316,3.0
+331,Product_331,Healthcare,Som PLC,45178,20581,646,4.3
+332,Product_332,Books,"Brar, Singh and Chander",32491,17258,60,4.9
+333,Product_333,Grocery,Deol Group,21882,10256,868,3.9
+334,Product_334,Electronics,Kohli Ltd,14800,10584,945,4.5
+335,Product_335,Books,Bandi-Wali,11782,9255,306,4.9
+336,Product_336,Beauty,Chopra Group,43254,35060,22,3.2
+337,Product_337,Healthcare,Kala Group,22162,13077,356,4.0
+338,Product_338,Home,"Ganguly, Bhatt and Konda",25678,11101,289,3.8
+339,Product_339,Books,"Bhakta, Venkatesh and Mani",12835,9183,99,1.5
+340,Product_340,Electronics,Bose-Gokhale,49350,37312,870,4.7
+341,Product_341,Beauty,Chandran-Som,19977,12103,591,1.6
+342,Product_342,Beauty,Gala Inc,45660,28176,214,1.9
+343,Product_343,Electronics,Luthra-Dada,49095,23960,370,3.9
+344,Product_344,Beauty,Dhawan Ltd,37777,16843,385,4.8
+345,Product_345,Beauty,"Bhakta, Karnik and Rattan",28041,19789,948,1.2
+346,Product_346,Beauty,"Sibal, Warrior and Ramachandran",23353,19578,967,1.2
+347,Product_347,Books,Behl-Chhabra,33829,23428,993,1.6
+348,Product_348,Electronics,Vora-Ramanathan,47403,27578,121,2.0
+349,Product_349,Beauty,Kuruvilla Ltd,32072,17197,668,4.0
+350,Product_350,Fashion,Chander-Gole,45387,38398,796,2.9
+351,Product_351,Healthcare,"Acharya, Dyal and Sama",42668,24403,376,1.0
+352,Product_352,Healthcare,Saran Ltd,7693,3363,656,3.7
+353,Product_353,Healthcare,Tiwari-Sarma,33456,16768,280,3.8
+354,Product_354,Beauty,Sahni LLC,6246,4731,393,2.9
+355,Product_355,Home,Sachar-Kant,42294,30292,585,1.5
+356,Product_356,Beauty,Sridhar LLC,21364,9156,415,4.3
+357,Product_357,Healthcare,"Yohannan, Kalita and Som",1344,775,65,3.1
+358,Product_358,Fashion,Shanker-Chaudhary,38370,24654,771,4.0
+359,Product_359,Beauty,Subramanian-Grover,43210,34737,882,3.4
+360,Product_360,Healthcare,Varty LLC,11842,4765,819,2.3
+361,Product_361,Grocery,"Chand, Kar and Seth",2615,1197,668,1.6
+362,Product_362,Electronics,"Dhawan, Madan and Bora",36913,19030,86,4.9
+363,Product_363,Beauty,"Chawla, Aurora and Chand",33220,17751,433,4.9
+364,Product_364,Home,Tella-Rau,43183,17274,47,4.8
+365,Product_365,Home,Chowdhury and Sons,34092,27514,674,3.1
+366,Product_366,Sports,Batta-Golla,9215,6078,535,4.6
+367,Product_367,Grocery,Dasgupta LLC,23126,15558,704,1.4
+368,Product_368,Grocery,"Gola, Mall and Bir",2981,1510,145,2.2
+369,Product_369,Grocery,"Dewan, Hora and Bava",14154,11759,605,2.4
+370,Product_370,Books,Dube Ltd,8470,6166,76,3.2
+371,Product_371,Beauty,Thaman-Rama,17133,9796,409,2.8
+372,Product_372,Beauty,Khalsa Inc,16707,11769,548,1.8
+373,Product_373,Grocery,Saxena LLC,41309,30143,731,2.5
+374,Product_374,Beauty,Upadhyay LLC,43127,29822,429,4.3
+375,Product_375,Books,"Dayal, Sahni and Walia",20782,17594,388,1.1
+376,Product_376,Home,Kota-Sami,39608,20254,127,3.1
+377,Product_377,Fashion,Gera and Sons,44875,29023,337,3.6
+378,Product_378,Home,Sharma PLC,23827,19279,149,4.5
+379,Product_379,Fashion,Barman Group,14845,7766,386,4.9
+380,Product_380,Fashion,Chaudhry-Sharaf,14613,8335,801,4.7
+381,Product_381,Home,Kata-Sabharwal,11566,7366,602,4.3
+382,Product_382,Sports,Wable-Madan,32137,14236,717,3.3
+383,Product_383,Fashion,Ramanathan Group,18530,12011,918,1.2
+384,Product_384,Books,"Doshi, Bir and Sura",20890,17253,185,2.4
+385,Product_385,Books,Manne LLC,48631,34285,488,3.4
+386,Product_386,Beauty,De Ltd,17027,6883,673,1.5
+387,Product_387,Home,Randhawa Group,24875,16303,54,4.7
+388,Product_388,Grocery,Sastry-Gole,41940,35167,694,3.4
+389,Product_389,Healthcare,"Hegde, Uppal and Bava",46369,28099,362,4.2
+390,Product_390,Books,Gulati-Ghose,32964,17440,533,4.8
+391,Product_391,Fashion,Bava Group,15042,8082,970,2.2
+392,Product_392,Fashion,Boase-Chada,20545,16032,78,3.9
+393,Product_393,Electronics,Sant-Kala,6186,2934,86,4.0
+394,Product_394,Electronics,Chokshi-Vyas,36367,29759,985,4.8
+395,Product_395,Beauty,"Mani, Roy and Lata",44420,27936,491,3.0
+396,Product_396,Fashion,Bal-Lal,44950,38166,415,1.1
+397,Product_397,Electronics,Singh-Anand,12513,10134,731,2.7
+398,Product_398,Grocery,"Comar, Kari and Rana",35067,25856,756,3.6
+399,Product_399,Electronics,"Doctor, Kant and Varkey",34660,24533,621,2.8
+400,Product_400,Grocery,Brar-Bedi,11094,7805,179,1.3
+401,Product_401,Electronics,"Soman, Gupta and Setty",8787,5545,432,3.0
+402,Product_402,Fashion,Gara Ltd,11222,6373,346,4.7
+403,Product_403,Fashion,"Dugal, Bandi and Kar",16418,12712,297,2.2
+404,Product_404,Electronics,"Shanker, Ahluwalia and Sandhu",19287,10012,755,3.5
+405,Product_405,Home,"Bhagat, Sangha and Dugal",25846,12867,951,4.7
+406,Product_406,Electronics,"Sinha, Dani and Choudhary",42187,26661,957,2.9
+407,Product_407,Electronics,"Sachar, Seth and Bhat",40534,31687,364,1.0
+408,Product_408,Sports,Samra-Raju,30219,16555,109,1.0
+409,Product_409,Sports,Mahal-Deol,47395,22928,9,1.4
+410,Product_410,Beauty,Karpe Ltd,32296,15789,420,1.5
+411,Product_411,Home,Hora-Varma,31993,12896,231,2.9
+412,Product_412,Books,"Zacharia, Chada and Sidhu",24580,13142,913,1.7
+413,Product_413,Healthcare,"Doshi, Borde and Wable",17710,7950,672,4.4
+414,Product_414,Books,Chaudhary Inc,10655,4932,5,2.4
+415,Product_415,Grocery,Ghose-Barad,46529,22767,291,1.2
+416,Product_416,Sports,Lala-Lad,25906,15270,922,1.1
+417,Product_417,Healthcare,"Dutt, Dutt and Warrior",43710,21398,982,3.7
+418,Product_418,Healthcare,"Walia, Agate and Bora",17469,7921,563,3.0
+419,Product_419,Sports,Hayer LLC,44728,32268,769,4.1
+420,Product_420,Books,"Deo, Kaul and Chana",26256,16431,134,1.4
+421,Product_421,Beauty,Deshpande-Buch,7119,5387,159,2.4
+422,Product_422,Grocery,Aggarwal Group,944,703,53,3.7
+423,Product_423,Electronics,Korpal LLC,22472,13333,444,2.9
+424,Product_424,Books,Krishna-Gopal,18545,11473,253,3.5
+425,Product_425,Grocery,Sanghvi Group,47842,30143,287,4.1
+426,Product_426,Grocery,Kant-Kuruvilla,17320,14677,682,4.3
+427,Product_427,Fashion,"Ravel, Uppal and Swamy",13053,8004,717,3.9
+428,Product_428,Beauty,Chanda-Gade,40099,19309,234,1.5
+429,Product_429,Grocery,"Subramaniam, Bhakta and Das",26348,10994,951,1.6
+430,Product_430,Fashion,Aurora-Mani,1207,817,885,1.2
+431,Product_431,Grocery,"Swaminathan, Bath and Bhatia",26742,17014,227,2.3
+432,Product_432,Books,Kannan-Bhavsar,31454,13449,659,1.2
+433,Product_433,Home,Shetty-Agate,7262,3784,965,2.4
+434,Product_434,Electronics,"Grewal, Batta and Chacko",27448,14029,186,1.2
+435,Product_435,Sports,"Kunda, Bava and Chaudhary",3466,2416,217,2.1
+436,Product_436,Fashion,Biswas Inc,18410,14890,441,1.7
+437,Product_437,Home,Sathe Inc,32246,18174,114,1.4
+438,Product_438,Beauty,Maharaj-Aurora,945,668,339,2.4
+439,Product_439,Sports,Seshadri-Chakraborty,23733,17427,243,3.6
+440,Product_440,Fashion,"Baria, Malhotra and Talwar",13814,9157,908,1.4
+441,Product_441,Fashion,"Ray, Tripathi and Issac",41308,30326,42,3.3
+442,Product_442,Grocery,Thakkar-Dash,42933,32965,721,2.8
+443,Product_443,Sports,Kar and Sons,6514,2825,308,3.9
+444,Product_444,Beauty,Choudhary LLC,49922,24506,44,1.5
+445,Product_445,Home,Dugar-Sridhar,27457,17784,912,4.5
+446,Product_446,Sports,Gole-Batta,36772,30844,459,3.5
+447,Product_447,Fashion,Bir-Bobal,7745,6272,494,2.7
+448,Product_448,Beauty,Doshi-Warrior,33071,24998,613,2.1
+449,Product_449,Electronics,Date-Shere,8499,4507,813,4.9
+450,Product_450,Books,"Shan, Andra and Khare",12514,9176,506,3.7
+451,Product_451,Beauty,Kothari-Buch,33701,28214,448,4.0
+452,Product_452,Books,Khalsa-Singhal,25225,16475,410,3.4
+453,Product_453,Beauty,Bhakta-Sarin,13611,6571,585,1.9
+454,Product_454,Healthcare,Karpe-Anand,45710,18466,515,3.8
+455,Product_455,Grocery,"Sinha, Gokhale and Sarin",34461,17798,303,3.8
+456,Product_456,Grocery,Dora-Sur,36235,16436,46,3.1
+457,Product_457,Beauty,Chaudry Group,19176,8007,964,4.5
+458,Product_458,Electronics,Mangat-Ghose,8764,4572,657,4.9
+459,Product_459,Electronics,Ramesh and Sons,13810,8846,664,2.4
+460,Product_460,Sports,Sanghvi Inc,39709,33256,85,4.8
+461,Product_461,Beauty,Kalla-Jayaraman,36047,18701,418,4.6
+462,Product_462,Electronics,Mand and Sons,19376,10580,640,4.3
+463,Product_463,Home,"Dutta, Sani and Bumb",23346,11642,180,2.0
+464,Product_464,Fashion,"Rao, Rastogi and Butala",1074,689,739,4.0
+465,Product_465,Home,Jani and Sons,25083,20707,890,3.5
+466,Product_466,Healthcare,Viswanathan-Mall,39656,25692,225,2.3
+467,Product_467,Books,Ray LLC,13414,8876,159,2.8
+468,Product_468,Sports,Sura-Gole,47878,34799,151,4.6
+469,Product_469,Healthcare,"Bhattacharyya, Sanghvi and Srinivasan",6190,3857,189,4.3
+470,Product_470,Healthcare,Raman-Sengupta,11591,5621,965,3.9
+471,Product_471,Home,Reddy-Dhillon,42488,22387,166,4.5
+472,Product_472,Grocery,Wali-Kibe,25884,18359,71,1.6
+473,Product_473,Books,Goel LLC,27994,14287,102,3.9
+474,Product_474,Electronics,Rau and Sons,9047,6577,617,1.4
+475,Product_475,Electronics,"Shanker, Bala and Dasgupta",25215,10321,781,4.3
+476,Product_476,Fashion,Barad Group,2916,1339,274,1.6
+477,Product_477,Electronics,Toor Inc,41166,27574,980,4.2
+478,Product_478,Sports,"Chaudry, Bhandari and Raja",35594,26028,873,3.8
+479,Product_479,Healthcare,"Chawla, Chaudhry and Sandhu",13309,6157,835,1.7
+480,Product_480,Grocery,"Sawhney, Edwin and Suresh",21791,13412,57,3.2
+481,Product_481,Fashion,Dar and Sons,17578,11994,21,4.3
+482,Product_482,Fashion,Shankar LLC,6788,4378,523,4.5
+483,Product_483,Grocery,"Balan, Chand and Singh",27266,12646,24,1.9
+484,Product_484,Home,Jhaveri-Sami,25306,11800,231,4.7
+485,Product_485,Fashion,Bahl-Saini,44903,25735,503,1.7
+486,Product_486,Home,Sibal Group,7267,3641,365,1.3
+487,Product_487,Fashion,Guha-Bala,21920,9935,917,1.2
+488,Product_488,Sports,Bassi-Badal,9952,4778,614,1.7
+489,Product_489,Home,Mand-Bal,27918,13054,639,4.3
+490,Product_490,Home,Chaudhry-Kumer,22881,18165,938,3.0
+491,Product_491,Fashion,Vaidya LLC,24240,19871,807,1.0
+492,Product_492,Beauty,"Desai, Sahota and Kamdar",9791,7343,327,1.6
+493,Product_493,Healthcare,Sood Inc,29324,21248,834,1.3
+494,Product_494,Home,"Varkey, Raman and Dhingra",37919,22461,148,1.4
+495,Product_495,Books,"Wadhwa, Kar and Sawhney",8408,4051,361,2.3
+496,Product_496,Books,"Rattan, Vala and Guha",27826,17156,616,4.2
+497,Product_497,Grocery,"Sunder, Dyal and Bail",21903,10123,392,2.7
+498,Product_498,Healthcare,Sathe-Kapur,32628,20961,545,3.1
+499,Product_499,Books,Vohra-Mahal,15130,8670,539,3.3
+500,Product_500,Grocery,"Kapoor, Shan and Khare",45499,34810,719,1.3
+501,Product_501,Electronics,Sarna PLC,23754,9532,371,3.2
+502,Product_502,Electronics,Randhawa Ltd,8805,7170,933,2.4
+503,Product_503,Beauty,Sama-Kothari,9182,4890,855,4.4
+504,Product_504,Grocery,Raju-Taneja,27645,14074,57,4.0
+505,Product_505,Beauty,Taneja Group,7733,6440,386,3.9
+506,Product_506,Sports,"Taneja, Ramaswamy and Venkataraman",45671,38099,55,3.8
+507,Product_507,Healthcare,Seth PLC,43483,28773,857,3.4
+508,Product_508,Sports,Kar and Sons,10416,4307,144,1.3
+509,Product_509,Books,Kibe-Date,5100,2068,153,4.1
+510,Product_510,Home,Sahni Inc,30836,22652,481,2.6
+511,Product_511,Electronics,"Rao, Mani and Kadakia",22157,13289,293,1.4
+512,Product_512,Electronics,Sura Ltd,3982,3171,618,4.0
+513,Product_513,Books,"Lala, Chowdhury and Khalsa",33033,15596,852,2.7
+514,Product_514,Home,Khanna-Saran,29822,19365,941,3.3
+515,Product_515,Books,Deol-Dhingra,20106,14460,953,1.6
+516,Product_516,Beauty,Venkataraman Group,6075,3855,760,1.8
+517,Product_517,Books,Kala and Sons,40619,17271,188,4.3
+518,Product_518,Fashion,Chada Inc,36703,24674,836,3.8
+519,Product_519,Books,Hayer-Balay,31337,16951,847,2.5
+520,Product_520,Books,Borde LLC,3632,2765,199,2.1
+521,Product_521,Sports,"Chad, Kalla and Jain",6891,2997,28,2.0
+522,Product_522,Fashion,Edwin LLC,10716,6897,216,3.4
+523,Product_523,Grocery,"Contractor, Rajagopal and Sama",49629,40167,564,1.8
+524,Product_524,Fashion,"Deshmukh, Tata and Mall",2171,1103,1000,3.3
+525,Product_525,Healthcare,Bajaj-Gera,2990,1954,46,1.2
+526,Product_526,Electronics,Bakshi PLC,6158,5077,365,4.0
+527,Product_527,Sports,Rajagopalan-Manne,26142,16341,769,2.6
+528,Product_528,Fashion,Sharaf-Sundaram,23370,19589,339,2.6
+529,Product_529,Beauty,Chaudry-Rajagopalan,48641,30478,24,3.3
+530,Product_530,Electronics,Varghese and Sons,25092,15422,297,1.6
+531,Product_531,Fashion,"Karpe, Bawa and De",44770,27237,975,3.9
+532,Product_532,Beauty,"Mann, Chaudry and Loke",14182,10826,787,3.9
+533,Product_533,Sports,Jha Ltd,32924,20819,458,4.1
+534,Product_534,Books,Ben PLC,22268,11821,40,4.6
+535,Product_535,Grocery,Jain-Ramakrishnan,44802,25735,625,3.4
+536,Product_536,Healthcare,Krishnan Group,10037,6575,99,4.2
+537,Product_537,Home,Lad-Bera,9396,6998,560,4.5
+538,Product_538,Healthcare,Bal-Ghose,5762,3598,321,1.7
+539,Product_539,Home,Bandi Inc,19422,9180,590,2.5
+540,Product_540,Healthcare,Chakrabarti-Setty,5897,2547,264,4.9
+541,Product_541,Healthcare,Kuruvilla Group,16828,12510,665,4.7
+542,Product_542,Healthcare,"Chakrabarti, Kannan and Ray",8174,6843,40,2.5
+543,Product_543,Beauty,Ratti-Goda,18834,10931,451,2.5
+544,Product_544,Sports,Lal PLC,40985,33952,85,3.7
+545,Product_545,Electronics,Jayaraman-Tank,33207,20008,635,4.9
+546,Product_546,Grocery,Varty-Agate,3789,2779,716,4.3
+547,Product_547,Fashion,Dube-Sandal,570,267,297,2.5
+548,Product_548,Fashion,"Ahluwalia, Kara and Bali",37414,21688,228,2.6
+549,Product_549,Sports,Rege Inc,30345,21275,477,2.9
+550,Product_550,Healthcare,Kulkarni-Saraf,35119,28272,111,1.3
+551,Product_551,Books,Savant Group,48007,21543,786,2.7
+552,Product_552,Sports,"Tara, Rajagopal and Salvi",26364,14445,350,5.0
+553,Product_553,Healthcare,Banerjee LLC,31919,15821,117,2.1
+554,Product_554,Healthcare,Ghosh and Sons,2558,1650,149,3.6
+555,Product_555,Books,Sangha Inc,21033,13791,63,4.7
+556,Product_556,Healthcare,Kohli-Babu,23740,17930,218,1.2
+557,Product_557,Books,Sodhi-Sheth,1553,1286,276,2.0
+558,Product_558,Fashion,Kothari-Ghosh,11591,5072,280,2.6
+559,Product_559,Healthcare,"Tank, Chhabra and Kamdar",19601,15547,892,2.7
+560,Product_560,Home,Chahal-Chatterjee,14081,9875,188,4.3
+561,Product_561,Books,Kapur LLC,6108,4903,350,4.9
+562,Product_562,Sports,Halder-Sarraf,19507,9247,964,2.7
+563,Product_563,Beauty,Ratti and Sons,31212,20006,988,3.8
+564,Product_564,Books,"Uppal, Dube and Divan",23295,18884,842,1.0
+565,Product_565,Beauty,"Kalita, Madan and Khare",39183,19174,331,3.7
+566,Product_566,Sports,"Khanna, Srivastava and Jain",48176,35374,14,1.6
+567,Product_567,Healthcare,Samra Ltd,30108,24695,885,2.3
+568,Product_568,Electronics,Deo-Chawla,44217,25772,461,4.8
+569,Product_569,Fashion,Agrawal-Dasgupta,8289,5681,37,1.9
+570,Product_570,Beauty,"Goel, Salvi and Tara",12348,7273,615,2.5
+571,Product_571,Grocery,"Johal, Solanki and Dara",22862,11302,995,3.7
+572,Product_572,Sports,"Chowdhury, Sridhar and Kulkarni",991,561,16,2.2
+573,Product_573,Fashion,"Doshi, Keer and Bandi",20167,12623,716,3.0
+574,Product_574,Sports,Wagle-Warrior,29934,17551,360,4.3
+575,Product_575,Sports,Sharaf PLC,27958,17765,116,4.7
+576,Product_576,Beauty,"Varughese, Kohli and Dayal",30119,17853,566,3.4
+577,Product_577,Home,Gill-Wagle,35620,21234,865,3.6
+578,Product_578,Home,Swamy PLC,44632,26639,718,3.5
+579,Product_579,Fashion,Som-Halder,6552,5555,91,3.6
+580,Product_580,Fashion,"Kota, Sane and Krishna",40437,33143,508,4.0
+581,Product_581,Fashion,Bhatti and Sons,40933,33452,648,2.8
+582,Product_582,Home,Mandal-Issac,38141,29087,872,2.7
+583,Product_583,Books,Sankar Inc,14656,10986,117,1.8
+584,Product_584,Sports,"Jaggi, Manne and Master",30824,25514,990,4.2
+585,Product_585,Books,Tara Inc,30455,17841,7,4.8
+586,Product_586,Home,"Shenoy, Dugar and Apte",14725,9253,900,3.6
+587,Product_587,Books,Chana Group,20195,15697,689,2.0
+588,Product_588,Electronics,"Gokhale, Gole and Soni",27218,11287,157,4.2
+589,Product_589,Sports,Vala-Rajagopal,34060,26192,343,1.7
+590,Product_590,Grocery,Vora Inc,37548,31794,569,4.9
+591,Product_591,Books,"Bali, Sem and Kurian",12676,8585,848,1.2
+592,Product_592,Books,Balay and Sons,37920,22490,1000,3.9
+593,Product_593,Beauty,"Dara, Raja and Kibe",26468,21356,447,1.9
+594,Product_594,Fashion,Kapoor-Kalla,46582,35426,646,3.3
+595,Product_595,Home,Shanker Inc,25740,20060,857,3.2
+596,Product_596,Fashion,Kothari Inc,21179,10413,26,2.7
+597,Product_597,Beauty,Deshmukh-Dube,41265,30804,28,3.5
+598,Product_598,Fashion,Bhatia-Aurora,35680,29053,585,2.5
+599,Product_599,Healthcare,Tank PLC,48699,35568,649,3.5
+600,Product_600,Grocery,Basak Inc,23519,11382,304,1.8
+601,Product_601,Books,Hora LLC,16122,11718,788,2.0
+602,Product_602,Beauty,Srinivasan-Hans,3441,1802,642,1.1
+603,Product_603,Fashion,Chada PLC,38018,30038,470,4.7
+604,Product_604,Home,"Raj, Thakkar and Chandran",8090,3625,268,4.6
+605,Product_605,Sports,Babu-Kamdar,6130,2665,934,4.4
+606,Product_606,Electronics,"Kala, Koshy and Krish",25661,11426,423,1.3
+607,Product_607,Books,Rajagopalan-Yohannan,41054,17831,384,4.6
+608,Product_608,Beauty,Apte Inc,41570,33619,184,2.2
+609,Product_609,Electronics,"Zachariah, Kulkarni and Warrior",11759,8194,120,4.9
+610,Product_610,Electronics,Sule Inc,22776,14070,162,3.1
+611,Product_611,Grocery,"Deol, Gera and Balay",16728,13666,620,1.1
+612,Product_612,Beauty,Batra and Sons,1559,986,221,4.5
+613,Product_613,Electronics,Dhingra-Borde,7572,6090,335,1.6
+614,Product_614,Beauty,Sathe LLC,5518,4014,274,2.1
+615,Product_615,Sports,Divan-Zacharia,13107,10865,725,3.2
+616,Product_616,Healthcare,Dani-Thaman,19338,11799,446,3.1
+617,Product_617,Home,Apte PLC,26260,21403,177,1.8
+618,Product_618,Books,"Sagar, Dyal and Zacharia",47065,24779,105,3.3
+619,Product_619,Grocery,"Butala, Grover and Suresh",38557,20829,976,3.9
+620,Product_620,Books,Thakkar Ltd,28457,22688,610,4.0
+621,Product_621,Books,"Gopal, Choudhary and Solanki",20939,14245,439,1.8
+622,Product_622,Fashion,Boase-Shanker,23178,13171,460,1.7
+623,Product_623,Home,Jain-Chaudhari,2262,1880,600,2.6
+624,Product_624,Sports,Acharya PLC,39626,30591,407,1.1
+625,Product_625,Books,Joshi LLC,11840,9046,809,1.7
+626,Product_626,Sports,"Gaba, Joshi and Suresh",16127,6977,380,1.6
+627,Product_627,Sports,Sarma-Gole,20657,9399,704,1.0
+628,Product_628,Sports,"Butala, Agarwal and Bhakta",21602,10718,920,1.9
+629,Product_629,Grocery,Jayaraman PLC,4390,2517,539,1.9
+630,Product_630,Fashion,"Amble, Gole and Babu",36812,19330,587,4.6
+631,Product_631,Books,Ramakrishnan Group,27689,19574,325,4.3
+632,Product_632,Healthcare,Konda-Dixit,13035,6370,510,1.2
+633,Product_633,Fashion,Sidhu-Sood,18034,10632,463,1.7
+634,Product_634,Grocery,"Chokshi, Ratti and Tiwari",21472,14300,590,1.1
+635,Product_635,Electronics,"Char, Shenoy and Chada",1218,839,933,2.8
+636,Product_636,Books,Tata-Mallick,8639,6727,37,4.6
+637,Product_637,Electronics,"Walla, Edwin and Sankaran",34621,14457,71,2.9
+638,Product_638,Home,Soman Inc,27252,19770,324,4.0
+639,Product_639,Sports,Bahl-Som,26286,11457,505,3.4
+640,Product_640,Healthcare,"Kaur, Sankaran and Loyal",25827,13799,505,4.4
+641,Product_641,Fashion,"Manda, Dewan and Gopal",8006,6239,29,1.9
+642,Product_642,Sports,Kala LLC,731,338,882,3.8
+643,Product_643,Fashion,Ratta Group,28602,14354,195,3.9
+644,Product_644,Electronics,"Lanka, Sekhon and Chandran",24224,18586,956,3.8
+645,Product_645,Electronics,Deshmukh-Singh,3490,1803,113,1.2
+646,Product_646,Sports,Khurana Group,19991,8671,704,3.5
+647,Product_647,Beauty,Kalita-Chatterjee,24924,12996,947,1.6
+648,Product_648,Sports,Rajan-Bera,30242,13728,882,1.6
+649,Product_649,Books,Khurana and Sons,38331,30645,652,2.8
+650,Product_650,Grocery,Mand Group,8069,5122,591,2.9
+651,Product_651,Sports,"Chana, Bhattacharyya and Gokhale",32169,27001,791,3.9
+652,Product_652,Home,"Sant, Goswami and Gill",14850,6553,728,1.3
+653,Product_653,Grocery,"Chatterjee, Amble and Dua",36652,28441,675,3.6
+654,Product_654,Fashion,Sethi-Sen,13543,9652,995,3.0
+655,Product_655,Grocery,Balan-Borra,13974,5672,479,4.3
+656,Product_656,Sports,Kakar and Sons,12365,7659,213,4.3
+657,Product_657,Sports,Krishnan PLC,49962,31847,778,4.8
+658,Product_658,Beauty,Solanki-Sachdev,46483,28090,868,3.0
+659,Product_659,Sports,"Kara, Mannan and Dara",8573,4273,394,4.9
+660,Product_660,Books,"Kala, Kale and Apte",40713,25692,192,1.3
+661,Product_661,Home,Khare Ltd,27777,13163,974,4.5
+662,Product_662,Healthcare,Barad Inc,42542,18970,897,1.4
+663,Product_663,Healthcare,Hayre-Sachdev,7272,3696,191,2.1
+664,Product_664,Healthcare,"Din, Rao and Barad",31260,21814,360,2.1
+665,Product_665,Books,"Wagle, Walia and Dutta",36114,15811,217,1.6
+666,Product_666,Sports,Babu-Aggarwal,32961,19574,54,2.8
+667,Product_667,Books,Magar-Dhaliwal,24283,10782,749,4.7
+668,Product_668,Books,Dhaliwal and Sons,12759,6791,180,3.4
+669,Product_669,Books,Setty PLC,34755,23402,111,3.7
+670,Product_670,Fashion,Sharaf-Saran,42408,21713,224,1.5
+671,Product_671,Grocery,Mahal PLC,2388,1573,67,3.1
+672,Product_672,Books,Lall-Sandal,18102,9085,401,2.6
+673,Product_673,Home,Garde-Gade,14460,10559,507,1.8
+674,Product_674,Home,"Tandon, Chacko and Cheema",13391,7451,722,3.4
+675,Product_675,Beauty,Chaudhari Ltd,48145,19325,515,4.6
+676,Product_676,Home,Trivedi-Dutta,40821,25086,873,4.6
+677,Product_677,Fashion,Choudhury LLC,15688,7476,170,1.7
+678,Product_678,Electronics,Amble Group,29883,13860,682,2.9
+679,Product_679,Home,Subramaniam-Kaur,21942,8982,902,1.3
+680,Product_680,Electronics,Kohli Inc,44562,33070,608,2.4
+681,Product_681,Healthcare,Ganesan-Sehgal,31102,20602,894,2.0
+682,Product_682,Electronics,Ganesh-Dhingra,7218,3033,580,3.7
+683,Product_683,Beauty,Chakrabarti LLC,19098,14818,773,1.6
+684,Product_684,Sports,Dhar-Kalla,6204,2760,463,3.0
+685,Product_685,Home,Ghose-Wali,23038,19476,679,2.9
+686,Product_686,Sports,Sridhar Ltd,23924,14508,308,3.8
+687,Product_687,Healthcare,"Madan, Thakur and Balan",33986,25439,115,2.1
+688,Product_688,Electronics,Banik Group,34083,24802,151,4.9
+689,Product_689,Beauty,"Srinivasan, Mall and Raja",14484,10091,365,3.0
+690,Product_690,Books,"Sheth, Saraf and Tak",16064,10600,368,1.8
+691,Product_691,Books,Babu PLC,5900,2874,654,1.4
+692,Product_692,Healthcare,Krishnamurthy-Madan,18001,14305,981,4.5
+693,Product_693,Sports,Kakar-Varkey,11515,5980,909,2.3
+694,Product_694,Home,Singhal-Ratta,38660,22723,316,1.8
+695,Product_695,Sports,Shanker and Sons,38029,24111,854,3.4
+696,Product_696,Sports,Raja and Sons,28457,21567,295,1.4
+697,Product_697,Beauty,Maharaj-Kibe,596,372,477,3.7
+698,Product_698,Beauty,Deshpande Ltd,34337,28671,310,2.9
+699,Product_699,Electronics,Sethi Inc,4284,3255,464,1.2
+700,Product_700,Fashion,Seshadri LLC,18597,14346,54,3.0
+701,Product_701,Electronics,Dubey-Ramakrishnan,383,227,51,2.0
+702,Product_702,Beauty,"Trivedi, Varkey and Bal",23001,18295,976,1.3
+703,Product_703,Grocery,Choudhury Ltd,17788,8257,442,3.3
+704,Product_704,Electronics,Kumer Group,5339,2834,484,4.7
+705,Product_705,Books,Wason-Verma,16350,12512,432,2.6
+706,Product_706,Home,Brahmbhatt Group,6481,5196,611,2.2
+707,Product_707,Sports,Yogi-Hayre,37006,22059,823,3.3
+708,Product_708,Home,Sawhney-Kapur,44832,33419,138,2.7
+709,Product_709,Fashion,Sekhon-Sachar,13125,7028,304,3.3
+710,Product_710,Beauty,Amble-Yogi,41227,25046,384,4.1
+711,Product_711,Healthcare,"Samra, Brahmbhatt and Madan",28682,12712,710,2.3
+712,Product_712,Healthcare,Thaker Inc,44952,32395,362,2.7
+713,Product_713,Healthcare,"Krishnan, Iyengar and Toor",27608,22987,28,4.7
+714,Product_714,Books,Kumar-Boase,1781,1479,90,4.0
+715,Product_715,Grocery,Mahajan Inc,40368,32620,594,3.0
+716,Product_716,Home,"Yogi, Dutta and Madan",8391,5700,54,4.0
+717,Product_717,Electronics,Zachariah and Sons,25783,11774,473,4.2
+718,Product_718,Electronics,Deshpande and Sons,33998,20640,86,1.2
+719,Product_719,Fashion,"Dhawan, Dara and Hans",42640,19110,841,2.2
+720,Product_720,Electronics,"Jani, Kala and Taneja",31603,22462,124,4.0
+721,Product_721,Electronics,Tailor Ltd,44248,27870,718,1.8
+722,Product_722,Healthcare,Shere Inc,9497,6200,139,1.9
+723,Product_723,Beauty,Chowdhury-Sachdeva,44331,30493,308,3.5
+724,Product_724,Electronics,Ahuja PLC,47179,39871,824,2.9
+725,Product_725,Fashion,"Kalita, Dada and Barad",45124,22124,0,1.6
+726,Product_726,Grocery,"Seth, Randhawa and Chaudhuri",7982,5059,209,1.4
+727,Product_727,Healthcare,"Gera, Singhal and Sachdev",1665,1289,400,1.2
+728,Product_728,Healthcare,Bath-Din,8033,4297,188,4.3
+729,Product_729,Healthcare,Sunder-Sachar,35879,18553,879,3.6
+730,Product_730,Electronics,Samra-Devan,8123,4829,189,1.6
+731,Product_731,Beauty,"Singh, Arora and Buch",48848,33991,523,4.0
+732,Product_732,Healthcare,Talwar and Sons,35877,17585,296,2.2
+733,Product_733,Healthcare,Sekhon and Sons,6604,5491,376,3.7
+734,Product_734,Fashion,Goda Group,25686,14733,475,2.7
+735,Product_735,Home,Sangha-Sangha,27891,13016,468,1.5
+736,Product_736,Home,"Ramaswamy, Bawa and Tiwari",25571,10355,34,3.6
+737,Product_737,Electronics,"Subramanian, Wali and Chatterjee",43119,29275,929,4.6
+738,Product_738,Healthcare,Uppal-Kant,9179,5604,283,1.0
+739,Product_739,Grocery,Taneja-Shenoy,10425,5848,357,4.6
+740,Product_740,Fashion,Kaul-Kara,34460,19841,178,3.6
+741,Product_741,Sports,"Sane, Choudhury and Karan",23109,16064,470,3.9
+742,Product_742,Home,Tailor and Sons,9227,4846,945,2.6
+743,Product_743,Healthcare,Ravel LLC,42329,26145,620,3.6
+744,Product_744,Home,Rajagopalan Inc,37801,27172,132,3.8
+745,Product_745,Sports,"Swaminathan, Ramaswamy and Chauhan",38641,32065,598,3.5
+746,Product_746,Electronics,"Deshmukh, Sodhi and Ravel",26511,11410,872,3.9
+747,Product_747,Fashion,Mani Inc,15234,6755,511,4.7
+748,Product_748,Grocery,Srinivasan-Chauhan,31272,17063,790,4.2
+749,Product_749,Fashion,Tripathi Ltd,48064,36433,921,4.5
+750,Product_750,Books,Shanker Inc,47770,38293,944,1.3
+751,Product_751,Electronics,Bath-Kar,40151,20586,867,4.0
+752,Product_752,Electronics,Kohli LLC,28986,21551,945,1.7
+753,Product_753,Books,Hari Ltd,7105,5076,136,5.0
+754,Product_754,Grocery,Sheth Group,37653,24489,258,3.0
+755,Product_755,Grocery,"Sehgal, Ram and Bath",44539,23549,759,1.6
+756,Product_756,Grocery,Varty PLC,34687,26497,88,3.3
+757,Product_757,Fashion,Setty-Bora,41279,34341,208,1.1
+758,Product_758,Sports,Bahl Ltd,9261,7427,792,2.6
+759,Product_759,Sports,"Dave, Konda and Atwal",35870,28302,189,3.7
+760,Product_760,Healthcare,Datta-Mand,47778,32919,194,4.3
+761,Product_761,Sports,Amble Inc,37429,28910,365,3.5
+762,Product_762,Fashion,Sawhney-Chakrabarti,36664,28746,449,2.7
+763,Product_763,Fashion,Kata Inc,24699,19593,130,4.1
+764,Product_764,Healthcare,Borah-Sandal,19594,8727,236,1.2
+765,Product_765,Grocery,Hegde-Viswanathan,35474,19472,841,4.8
+766,Product_766,Sports,"Bhargava, Kamdar and Raju",16524,9512,69,4.5
+767,Product_767,Fashion,Saraf Ltd,10395,8686,547,3.3
+768,Product_768,Home,Subramanian-Sem,33981,27841,408,3.5
+769,Product_769,Fashion,Dasgupta Group,35828,25577,596,2.9
+770,Product_770,Electronics,"Kumer, Raman and Kannan",17289,11997,346,2.7
+771,Product_771,Electronics,Salvi LLC,13190,7261,142,1.8
+772,Product_772,Electronics,"Jayaraman, Kade and Raj",48145,26399,241,3.0
+773,Product_773,Electronics,"Hegde, Bhatt and Dhar",37002,29858,354,4.9
+774,Product_774,Fashion,"Arya, Varghese and Apte",27328,18286,908,3.2
+775,Product_775,Electronics,Chokshi Ltd,8534,4452,106,1.1
+776,Product_776,Sports,"Thakur, Bhavsar and Singh",33316,16703,441,2.9
+777,Product_777,Electronics,Venkatesh-Bansal,14976,6134,26,4.1
+778,Product_778,Books,Chanda-Raman,12906,8264,698,3.7
+779,Product_779,Electronics,"Chaudhry, Kunda and Yohannan",1235,801,396,4.1
+780,Product_780,Books,Gill-Zacharia,45626,20821,562,1.6
+781,Product_781,Sports,Vyas-Goyal,28751,13026,360,1.8
+782,Product_782,Grocery,Wadhwa-Vohra,28658,23302,237,1.4
+783,Product_783,Electronics,Dalal-Sem,708,355,821,1.1
+784,Product_784,Electronics,"Magar, Shankar and Tripathi",47224,24200,78,1.2
+785,Product_785,Electronics,Bal and Sons,28791,13856,321,2.4
+786,Product_786,Home,"Malhotra, Doshi and Kaul",42989,34420,132,3.4
+787,Product_787,Fashion,Lala-Bhargava,31422,21866,78,2.0
+788,Product_788,Sports,"Saraf, Gala and Aurora",35678,17576,919,4.7
+789,Product_789,Home,Bassi-Wason,14486,8685,964,2.5
+790,Product_790,Grocery,"Kala, Sibal and Hans",36186,19240,539,4.6
+791,Product_791,Fashion,"Lala, Bala and Sen",20946,14955,55,2.4
+792,Product_792,Healthcare,Mann and Sons,26974,19353,286,1.3
+793,Product_793,Grocery,"Iyengar, Bose and Bhat",9037,7036,312,4.0
+794,Product_794,Beauty,Bora-Dyal,13862,6310,36,4.9
+795,Product_795,Healthcare,Saha-Reddy,45816,27403,975,1.5
+796,Product_796,Home,Bajaj-Sarkar,32746,25422,284,3.4
+797,Product_797,Fashion,Ray-Ram,19737,15241,61,2.1
+798,Product_798,Electronics,Dhingra-Kibe,40010,22916,883,2.5
+799,Product_799,Grocery,Krishnan-Rattan,29149,12242,388,1.7
+800,Product_800,Home,Varma Group,28301,18101,32,3.2
+801,Product_801,Sports,Sandal Group,22843,18771,944,4.3
+802,Product_802,Grocery,"Barad, Sahota and Khare",17255,13193,775,1.1
+803,Product_803,Books,"Gopal, Mani and Bava",47615,36813,886,2.7
+804,Product_804,Electronics,Mangal Group,47840,39126,826,1.4
+805,Product_805,Home,"Iyengar, Sule and Varty",25485,21117,879,5.0
+806,Product_806,Home,"Kalla, Din and Goel",35096,21358,166,4.8
+807,Product_807,Grocery,Sur LLC,30677,22564,135,4.6
+808,Product_808,Home,Barad-Mangal,18445,14014,87,5.0
+809,Product_809,Books,"Sarraf, Chana and Arya",35623,18991,39,3.5
+810,Product_810,Home,Badami-Bala,23754,12374,801,3.6
+811,Product_811,Home,Kuruvilla Inc,39895,16179,582,3.6
+812,Product_812,Healthcare,Cheema-Dugal,17385,13584,473,1.1
+813,Product_813,Sports,Ray-Khalsa,631,384,491,3.6
+814,Product_814,Electronics,"Ramanathan, Shanker and Bhakta",36527,18191,593,4.8
+815,Product_815,Sports,Sood-Sarkar,18167,14600,976,1.3
+816,Product_816,Home,"Ahuja, Borra and Dyal",11833,6107,265,4.5
+817,Product_817,Beauty,Ghosh Inc,8387,4213,150,4.5
+818,Product_818,Fashion,"Rana, Sangha and Dash",43040,18176,670,1.2
+819,Product_819,Healthcare,Venkatesh-Manne,44905,28201,593,2.3
+820,Product_820,Electronics,"Sastry, Gera and Contractor",36318,26251,974,3.9
+821,Product_821,Electronics,"Taneja, Sankar and Bhasin",17027,14283,694,4.4
+822,Product_822,Electronics,Chana-Bhattacharyya,23206,14926,614,1.9
+823,Product_823,Healthcare,"Dalal, Gandhi and Kaur",7204,3132,115,3.0
+824,Product_824,Sports,"Tiwari, Madan and Gopal",15580,7662,849,4.3
+825,Product_825,Books,"Boase, Johal and Madan",27310,11801,896,2.1
+826,Product_826,Sports,"Gour, Dhaliwal and Ray",1668,912,343,4.9
+827,Product_827,Home,Sodhi Group,42778,24324,636,1.1
+828,Product_828,Beauty,Ranganathan Inc,24187,10160,933,3.4
+829,Product_829,Sports,Raman-Rama,7012,4726,523,3.9
+830,Product_830,Sports,Saran-Ganguly,48680,30604,962,1.9
+831,Product_831,Beauty,Saraf PLC,38236,15855,390,4.1
+832,Product_832,Fashion,Dugal Ltd,42596,18542,981,4.7
+833,Product_833,Books,Devan-Iyengar,14768,9664,551,3.9
+834,Product_834,Healthcare,Divan Group,34637,26296,675,3.1
+835,Product_835,Grocery,"Sengupta, Bahl and Wali",28952,15710,856,3.3
+836,Product_836,Sports,Dubey LLC,16042,8789,236,2.8
+837,Product_837,Grocery,Sen LLC,49083,41110,455,3.9
+838,Product_838,Sports,Doshi-Dara,26914,15148,573,3.0
+839,Product_839,Grocery,Dayal-Bajaj,23793,16512,459,4.1
+840,Product_840,Beauty,Khosla-Dixit,15107,9913,947,3.2
+841,Product_841,Beauty,Gera Ltd,26763,18823,620,2.0
+842,Product_842,Fashion,Lala-Hegde,18851,10437,83,2.6
+843,Product_843,Healthcare,"Dar, Kalla and Gulati",33147,27925,647,4.5
+844,Product_844,Healthcare,Krishna-Balakrishnan,13032,10490,15,1.7
+845,Product_845,Healthcare,"Gara, Sarna and Sur",27485,14251,760,1.4
+846,Product_846,Electronics,Bhardwaj-Ganesh,2283,1769,706,1.7
+847,Product_847,Books,"Majumdar, Chaudhry and Majumdar",4835,2222,925,2.7
+848,Product_848,Grocery,Raju-Bahl,8402,4881,729,2.2
+849,Product_849,Sports,Taneja-Subramanian,22123,17783,605,3.4
+850,Product_850,Electronics,Devi Ltd,7112,6026,75,4.0
+851,Product_851,Books,Tandon-Viswanathan,23312,19289,645,2.8
+852,Product_852,Healthcare,Mangal PLC,28603,15164,716,1.5
+853,Product_853,Fashion,Majumdar Ltd,12072,8760,155,4.6
+854,Product_854,Healthcare,Sethi-Bhandari,38949,25973,388,2.3
+855,Product_855,Home,Acharya-Gole,11631,7314,967,4.1
+856,Product_856,Sports,Reddy-Rattan,15271,8151,49,3.3
+857,Product_857,Books,Dixit-Hayer,34469,22781,292,2.3
+858,Product_858,Beauty,"Iyengar, Chahal and Dayal",20928,15503,42,4.3
+859,Product_859,Grocery,"Balakrishnan, Goswami and Aurora",48194,38414,440,3.1
+860,Product_860,Sports,Golla LLC,37742,30035,101,2.4
+861,Product_861,Home,Chopra Group,10902,4942,498,2.8
+862,Product_862,Home,Goda PLC,11146,5905,620,4.0
+863,Product_863,Beauty,"Gill, Tara and Sinha",15233,10661,98,1.8
+864,Product_864,Electronics,Srinivasan-Chadha,33388,24696,612,4.6
+865,Product_865,Grocery,Chhabra and Sons,35428,22746,6,3.0
+866,Product_866,Home,Soman-Walia,1739,984,964,4.8
+867,Product_867,Beauty,Kumar-Sur,28001,20425,850,2.8
+868,Product_868,Fashion,Basu-Sampath,7233,5224,455,4.6
+869,Product_869,Beauty,Vaidya-Barad,32375,16782,285,3.9
+870,Product_870,Fashion,"Sarin, Bhatti and Sha",7682,6420,762,4.2
+871,Product_871,Beauty,Sura-Grover,47718,20683,519,2.3
+872,Product_872,Fashion,Kumer-Cheema,29768,20354,723,3.8
+873,Product_873,Sports,Rattan-Deol,2563,1525,194,4.4
+874,Product_874,Electronics,Ganesh-Kulkarni,43377,33701,971,3.5
+875,Product_875,Books,Lad Ltd,572,292,893,4.8
+876,Product_876,Healthcare,Rout-Sampath,44178,21561,155,2.9
+877,Product_877,Home,Chawla-Karan,12312,8989,134,1.8
+878,Product_878,Grocery,Karan Group,5863,4853,3,2.7
+879,Product_879,Grocery,Bhardwaj-Sarin,32207,20966,727,1.7
+880,Product_880,Books,Jhaveri Inc,27454,19481,646,3.3
+881,Product_881,Beauty,"Toor, Chatterjee and Deshmukh",41843,23303,898,2.2
+882,Product_882,Healthcare,Mall PLC,15247,12102,501,4.2
+883,Product_883,Healthcare,"Sankar, Karnik and Bhattacharyya",25753,17229,302,1.4
+884,Product_884,Home,"Bajwa, Ahluwalia and Lad",7414,6178,429,4.9
+885,Product_885,Books,"Gole, Bassi and Vaidya",21375,10929,118,1.7
+886,Product_886,Sports,"Arora, Ray and Gulati",20949,14607,713,2.6
+887,Product_887,Healthcare,"Mahal, Comar and Bhat",8442,6315,860,4.2
+888,Product_888,Grocery,Khatri-Raj,32108,21527,29,2.2
+889,Product_889,Books,Gour and Sons,33308,16547,62,3.2
+890,Product_890,Sports,Swaminathan Ltd,21230,10991,421,2.6
+891,Product_891,Home,Bora-Banerjee,29013,17156,934,1.2
+892,Product_892,Sports,"Shere, Savant and Sengupta",31868,23189,651,4.3
+893,Product_893,Grocery,Wali PLC,20268,12189,586,4.5
+894,Product_894,Fashion,Rajagopal and Sons,35178,17335,970,4.9
+895,Product_895,Electronics,"Dar, Kar and Bala",40076,21975,973,3.9
+896,Product_896,Sports,"Verma, Shere and Behl",24900,10971,934,2.4
+897,Product_897,Electronics,Mander Inc,36284,15549,531,1.8
+898,Product_898,Beauty,Gade-Gara,35142,17194,858,3.1
+899,Product_899,Beauty,Kala-Bhat,47093,23697,932,2.5
+900,Product_900,Grocery,Tiwari PLC,27142,13490,962,1.1
+901,Product_901,Fashion,Sidhu-Vohra,1362,1007,513,2.6
+902,Product_902,Home,Bajaj and Sons,31828,13336,308,1.1
+903,Product_903,Grocery,Mannan-Rout,41439,30979,34,2.1
+904,Product_904,Books,"Sekhon, Toor and Ramaswamy",8153,6243,671,2.6
+905,Product_905,Fashion,Srivastava Group,48581,38596,78,1.3
+906,Product_906,Books,Chatterjee LLC,47374,33946,20,1.1
+907,Product_907,Beauty,Soni-Tripathi,35550,23896,97,3.9
+908,Product_908,Home,"Korpal, Tiwari and Joshi",25682,12518,803,2.3
+909,Product_909,Home,"Soni, Ghose and Dass",33627,24701,280,2.8
+910,Product_910,Healthcare,Shetty Group,6582,3415,385,2.2
+911,Product_911,Books,Bahri-Andra,6148,3074,574,2.1
+912,Product_912,Grocery,Sangha Inc,18689,15109,391,1.1
+913,Product_913,Sports,Saha Group,32623,23729,781,3.2
+914,Product_914,Electronics,"Maharaj, Bhat and Wason",7147,4313,406,4.1
+915,Product_915,Fashion,"Dasgupta, Wagle and Joshi",29350,16624,658,2.2
+916,Product_916,Fashion,Baria-Kalla,9472,7239,97,3.2
+917,Product_917,Healthcare,"Sridhar, Kapoor and Dhillon",13660,10780,607,2.0
+918,Product_918,Healthcare,Joshi-Kumer,9312,5414,535,3.9
+919,Product_919,Electronics,"Upadhyay, Sethi and Kunda",37185,27601,785,3.0
+920,Product_920,Sports,"Chawla, Sahota and Dua",27041,14606,854,1.6
+921,Product_921,Books,"Johal, Lal and Mani",21116,14993,892,1.0
+922,Product_922,Healthcare,Dutt-Ganesh,45295,22382,558,3.0
+923,Product_923,Healthcare,Dara Inc,42780,21650,725,2.9
+924,Product_924,Fashion,Kata-Chokshi,36409,28631,943,1.4
+925,Product_925,Beauty,Gaba-Varughese,45876,19950,775,1.1
+926,Product_926,Beauty,"Bora, Saxena and Dhingra",34124,25138,202,2.8
+927,Product_927,Books,Bandi-Sahota,7499,3131,507,1.7
+928,Product_928,Books,Jhaveri Ltd,34429,21319,408,1.0
+929,Product_929,Home,Chawla-Sampath,7755,4621,737,4.7
+930,Product_930,Sports,Kalita-Bhat,44397,23175,629,4.6
+931,Product_931,Beauty,"Kamdar, Sur and Chandra",36999,25625,297,3.1
+932,Product_932,Sports,"Buch, Sane and Ramanathan",13449,10238,531,3.4
+933,Product_933,Sports,Dugar-Hayre,30990,18851,949,4.0
+934,Product_934,Healthcare,Chawla PLC,8919,4226,10,2.3
+935,Product_935,Fashion,Swamy Inc,11795,5516,1000,1.0
+936,Product_936,Fashion,"Wali, Chaudhuri and Mammen",46021,22295,550,2.8
+937,Product_937,Healthcare,Sawhney-Kurian,6257,2674,608,1.6
+938,Product_938,Grocery,"Chhabra, Sandal and Bose",23017,15797,353,3.5
+939,Product_939,Books,Sengupta-Kala,12674,6635,598,3.9
+940,Product_940,Books,Ramakrishnan-Som,24119,16425,956,2.0
+941,Product_941,Grocery,"Khosla, Rout and Vora",35506,24453,79,3.4
+942,Product_942,Home,Dalal and Sons,6798,4954,182,2.1
+943,Product_943,Books,Kalla and Sons,6755,3087,338,3.3
+944,Product_944,Healthcare,Chanda Inc,38858,26118,214,1.7
+945,Product_945,Fashion,Thaker Group,15243,12881,951,4.2
+946,Product_946,Healthcare,Aggarwal and Sons,9650,4482,895,1.0
+947,Product_947,Electronics,"Shere, Dasgupta and Balasubramanian",5147,4133,140,3.0
+948,Product_948,Healthcare,"Sura, Butala and Joshi",28865,17071,334,2.2
+949,Product_949,Books,Dyal LLC,49857,22574,386,4.1
+950,Product_950,Home,"Sankar, Viswanathan and Chakraborty",46334,28426,858,3.1
+951,Product_951,Grocery,Ranganathan Group,34829,15157,978,1.7
+952,Product_952,Beauty,Sachdev-Thaman,41584,32232,860,2.7
+953,Product_953,Home,"Sundaram, Butala and Lad",28993,17991,701,1.5
+954,Product_954,Beauty,Sundaram PLC,28585,19822,25,4.5
+955,Product_955,Sports,"Majumdar, Korpal and Gara",30594,22848,745,2.7
+956,Product_956,Grocery,"Thakur, Dugal and Ramakrishnan",40484,26391,391,2.5
+957,Product_957,Grocery,Mammen-Dash,49046,41588,452,2.4
+958,Product_958,Home,"Kara, Balasubramanian and Talwar",12822,5161,336,1.4
+959,Product_959,Electronics,Saini Inc,24224,19672,621,2.1
+960,Product_960,Healthcare,"Chowdhury, Halder and Suri",42466,22240,407,1.2
+961,Product_961,Home,"Rana, Mammen and Kala",45630,32713,640,1.2
+962,Product_962,Healthcare,Sabharwal Inc,37548,28930,622,3.5
+963,Product_963,Fashion,"Tella, Amble and Jayaraman",32182,15389,39,2.5
+964,Product_964,Beauty,"Buch, Ratta and Chauhan",40218,32271,722,3.9
+965,Product_965,Fashion,Salvi-D’Alia,8677,3794,57,2.8
+966,Product_966,Fashion,"Rout, Khurana and Dara",46619,19955,878,3.2
+967,Product_967,Electronics,Ramaswamy-Savant,12775,8876,340,4.3
+968,Product_968,Beauty,"Ganesan, Behl and Acharya",20790,16714,927,4.9
+969,Product_969,Electronics,Samra Ltd,47375,39081,963,3.7
+970,Product_970,Electronics,Rastogi-Vig,27337,21240,66,1.8
+971,Product_971,Home,Dewan-Bansal,49942,31248,85,1.7
+972,Product_972,Grocery,Shere and Sons,2966,1554,705,3.0
+973,Product_973,Electronics,Lalla Group,11385,7808,318,2.1
+974,Product_974,Healthcare,"Sathe, Joshi and Dubey",23032,10432,581,4.3
+975,Product_975,Healthcare,"Karan, Acharya and Goswami",5692,3727,90,1.5
+976,Product_976,Fashion,"Arora, Goyal and Gaba",5985,2885,190,2.3
+977,Product_977,Beauty,"Doshi, Keer and Gill",41116,34315,807,1.0
+978,Product_978,Fashion,Jhaveri-Verma,41858,23797,898,3.9
+979,Product_979,Grocery,Dass-Badal,16219,8733,765,4.0
+980,Product_980,Books,Sarma LLC,8748,4721,722,2.1
+981,Product_981,Sports,Dara-Tank,18332,8491,423,1.9
+982,Product_982,Grocery,Dora Inc,12386,6474,181,4.9
+983,Product_983,Home,Chopra Ltd,17047,12169,94,3.0
+984,Product_984,Healthcare,"Wali, Zacharia and Varty",37975,21403,849,3.5
+985,Product_985,Books,"Bawa, Banerjee and Bakshi",11222,4674,159,3.2
+986,Product_986,Books,Dar and Sons,13855,11737,355,3.6
+987,Product_987,Grocery,Chad Group,44746,33931,350,3.8
+988,Product_988,Home,Wadhwa-Dugar,33064,21432,92,3.1
+989,Product_989,Healthcare,Balan-Tiwari,13859,7153,267,1.1
+990,Product_990,Beauty,Mahal-Bala,7606,4812,486,1.6
+991,Product_991,Books,Chanda-Malhotra,38507,20999,674,3.4
+992,Product_992,Fashion,Sethi Group,2268,1236,644,2.4
+993,Product_993,Healthcare,"Barad, Bhandari and Sampath",567,267,342,2.3
+994,Product_994,Sports,Gaba-Barman,6617,3203,313,1.7
+995,Product_995,Electronics,"Bhat, Lanka and Bala",35883,17359,449,4.2
+996,Product_996,Books,"Walla, Som and Raja",29963,19988,748,2.6
+997,Product_997,Sports,Aurora-Sinha,16013,8225,615,2.4
+998,Product_998,Electronics,"Cheema, Krish and Shan",44519,25844,994,4.7
+999,Product_999,Fashion,Sood-Basak,15405,11452,431,2.7
+1000,Product_1000,Books,"Bobal, Batta and Sharaf",17702,14680,607,1.1

@@ -1,0 +1,80 @@
+PROJECT: Ecommerce Sales Analysis Dashboard
+
+Objective:
+Analyze ecommerce sales performance using SQL and Excel to identify revenue trends, customer behavior, top-performing products, city-wise performance, and business growth patterns.
+
+Tools Used:
+
+* MySQL
+* Microsoft Excel
+
+Dataset:
+Ecommerce sales dataset containing customer, order, order_items, product, payment, and return information.
+
+SQL Concepts Used:
+
+* INNER JOIN
+* GROUP BY
+* Aggregate Functions (SUM, COUNT, AVG)
+* CTE (Common Table Expressions)
+* Window Functions (DENSE_RANK, OVER, LAG)
+* CASE WHEN
+* DATE_FORMAT
+* ORDER BY
+* LIMIT
+
+Business Questions Solved:
+
+1. Overall KPI Summary
+2. Monthly Revenue Trend
+3. Monthly Orders Trend
+4. Top Cities by Revenue
+5. Top Products by Revenue
+6. Worst Performing Products
+7. Category Revenue Contribution %
+8. Top Category by Month
+9. Customer Segmentation
+10. Repeat vs One-Time Customers
+11. Top Customers by City
+12. Customers Spending Above City Average
+13. Payment Analysis
+14. Return Analysis
+15. Brand/Seller Performance
+16. City/State Sales Performance
+17. Month-over-Month Revenue Growth
+
+Key KPIs:
+
+* Total Orders: 6,977
+* Total Revenue: ₹261 Cr
+* Total Customers: 1,945
+* Average Order Value: ₹3.75 Lakh
+* Total Quantity Sold: 1,14,010
+
+Key Insights:
+
+* Chennai generated the highest revenue among all cities.
+* Monthly revenue and order trends showed overall business stability.
+* A small number of products contributed significantly to overall revenue.
+* Revenue contribution was concentrated in a few high-performing categories.
+* Customer spending behavior varied significantly across cities.
+* High-value customers contributed disproportionately to total sales.
+* Certain brands/products consistently outperformed others.
+* Return patterns highlighted areas of potential business improvement.
+
+Dashboard Features:
+
+* KPI Cards
+* Monthly Revenue Trend
+* Monthly Orders Trend
+* Top Cities by Revenue
+* Top Products by Revenue
+
+Outcome:
+Built an end-to-end Ecommerce Sales Analysis project using SQL and Excel to analyze business performance and create a professional dashboard for decision-making.
+
+Future Scope:
+
+* Rebuild dashboard in Power BI with interactive filters and slicers
+* Perform advanced data analysis using Python (Pandas, Matplotlib)
+* Add predictive analytics and customer segmentation models

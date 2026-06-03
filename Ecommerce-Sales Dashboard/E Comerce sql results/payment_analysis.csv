@@ -1,0 +1,4 @@
+payment_status,total_orders,total_rev,avg_order_value
+Failed,397,10079649.00,25389.544081
+Refunded,781,19923796.00,25510.622279
+Paid,6401,160119392.00,25014.746446

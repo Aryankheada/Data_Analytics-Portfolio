@@ -1,0 +1,301 @@
+seller_id,seller_name,city,seller_rating
+1,"Bajaj, Dass and Devi",Jaipur,1.7
+2,Chopra Ltd,Chennai,4.5
+3,"Warrior, Yohannan and Ahuja",Jaipur,1.8
+4,"Ganesh, Sachdev and Sarna",Lucknow,4.0
+5,"Vala, Choudhry and Gala",Bengaluru,3.7
+6,"Cherian, Mani and Varkey",Mumbai,4.9
+7,"Bhatia, Venkatesh and Din",Chennai,4.2
+8,Thakkar Group,Bengaluru,4.2
+9,Bassi Inc,Ahmedabad,2.6
+10,"Bhatti, Sehgal and Bhalla",Ahmedabad,1.0
+11,Madan-Bhardwaj,Bengaluru,1.8
+12,"Tandon, Sura and Singh",Bengaluru,2.2
+13,Dora Ltd,Delhi,1.7
+14,Chaudhari-Balay,Hyderabad,2.7
+15,Kala Inc,Hyderabad,1.6
+16,Buch-Batta,Jaipur,4.4
+17,Karan LLC,Pune,1.0
+18,"Aggarwal, Balasubramanian and Srinivasan",Bengaluru,2.4
+19,"Salvi, Srivastava and Lala",Ahmedabad,3.2
+20,Babu and Sons,Kolkata,3.8
+21,Zacharia LLC,Ahmedabad,3.7
+22,"Rama, Bhalla and Kalla",Ahmedabad,3.8
+23,Sarraf Inc,Delhi,2.6
+24,Garg Group,Pune,4.1
+25,Gade Ltd,Bengaluru,2.6
+26,Bhakta-Upadhyay,Pune,4.6
+27,Tella and Sons,Kolkata,3.4
+28,Aggarwal-Soni,Jaipur,1.3
+29,Saraf Group,Ahmedabad,3.7
+30,"Seth, Deep and Sen",Lucknow,1.1
+31,Sura PLC,Lucknow,1.7
+32,Balan-Madan,Hyderabad,2.5
+33,"Suresh, Bali and Chakrabarti",Pune,3.0
+34,Kohli-Bansal,Mumbai,3.4
+35,Ratti-D’Alia,Kolkata,4.7
+36,Dyal-Chowdhury,Hyderabad,1.6
+37,"Sandhu, Sharaf and Ravi",Hyderabad,1.2
+38,Bail Inc,Chennai,2.7
+39,"Choudhry, Ramachandran and Bora",Pune,2.5
+40,"Krishna, Guha and Sagar",Bengaluru,2.7
+41,Ratta-Butala,Chennai,2.2
+42,"Wable, Ranganathan and Bhakta",Ahmedabad,1.1
+43,Saran Ltd,Kolkata,1.7
+44,Chandran Inc,Kolkata,3.7
+45,Rattan-Barad,Delhi,2.9
+46,Luthra Group,Delhi,2.4
+47,"Gola, Anand and Koshy",Delhi,3.6
+48,Batta Ltd,Kolkata,4.2
+49,"Bobal, Madan and Chawla",Mumbai,1.6
+50,Sachar PLC,Bengaluru,3.3
+51,Arora LLC,Kolkata,3.7
+52,Rout Inc,Mumbai,2.9
+53,Sodhi and Sons,Kolkata,2.7
+54,"Lad, Agrawal and Kari",Mumbai,2.2
+55,Kalita Group,Chennai,4.0
+56,"Dasgupta, Choudhary and Batra",Delhi,3.4
+57,Bhatt-Taneja,Ahmedabad,3.0
+58,Jain Ltd,Ahmedabad,3.8
+59,Raja-Bhatt,Jaipur,4.9
+60,"Chand, Varty and Garde",Delhi,4.1
+61,Hayre-Srinivasan,Kolkata,3.1
+62,Chowdhury-Raja,Kolkata,4.5
+63,Anand-Edwin,Delhi,1.6
+64,Raval-Dara,Pune,4.8
+65,Golla Inc,Lucknow,2.0
+66,Loyal Inc,Jaipur,4.3
+67,"Aurora, Kota and Ganguly",Ahmedabad,2.7
+68,Kalita and Sons,Ahmedabad,2.1
+69,Sidhu-Agate,Delhi,4.5
+70,Sharma PLC,Ahmedabad,2.5
+71,Sachdeva and Sons,Lucknow,3.7
+72,"Hari, Kapoor and Chatterjee",Chennai,2.7
+73,"Doctor, Kohli and Choudhary",Chennai,4.1
+74,Thakur and Sons,Mumbai,3.2
+75,Baral Ltd,Bengaluru,2.2
+76,"Mallick, Yadav and Sagar",Kolkata,1.1
+77,Sodhi Ltd,Pune,2.2
+78,"Sinha, Kumer and Maharaj",Mumbai,3.4
+79,Garde Ltd,Pune,3.9
+80,"Dutta, Uppal and Tara",Jaipur,4.0
+81,Mall-Arya,Hyderabad,1.7
+82,Seshadri Ltd,Jaipur,1.4
+83,"Kurian, Singh and Solanki",Bengaluru,3.5
+84,"Kuruvilla, Balakrishnan and Yadav",Kolkata,4.6
+85,"Goyal, Deep and Dash",Pune,4.9
+86,Brahmbhatt PLC,Lucknow,2.0
+87,"Apte, Mallick and Chatterjee",Jaipur,3.3
+88,Sami-Jayaraman,Mumbai,1.3
+89,Cheema and Sons,Pune,1.2
+90,Srivastava Ltd,Lucknow,4.9
+91,Chadha-Malhotra,Delhi,2.5
+92,Vasa Inc,Delhi,2.4
+93,"Sawhney, Dhillon and Jayaraman",Chennai,2.7
+94,"Ratti, Bath and Dhaliwal",Mumbai,1.7
+95,Venkatesh-Keer,Chennai,3.9
+96,Keer and Sons,Delhi,4.3
+97,Deol-Loke,Kolkata,4.9
+98,Anand-Bajaj,Hyderabad,3.3
+99,Ben and Sons,Chennai,3.5
+100,"Sen, Dey and Issac",Jaipur,4.4
+101,Dhar-Dass,Hyderabad,3.8
+102,"Borah, Kibe and Bhandari",Mumbai,2.5
+103,Bava-Deo,Ahmedabad,1.9
+104,"Bhargava, Bhatnagar and Chaudhari",Kolkata,2.1
+105,Sastry and Sons,Bengaluru,2.1
+106,Banerjee and Sons,Mumbai,3.4
+107,Goel PLC,Bengaluru,3.7
+108,Dhar-Dalal,Chennai,1.0
+109,"Thakur, Dalal and Kant",Hyderabad,1.1
+110,Kulkarni Inc,Kolkata,3.6
+111,Kala Group,Chennai,2.1
+112,"Desai, Bhagat and Khosla",Lucknow,4.2
+113,"Salvi, Sarkar and Arora",Pune,1.4
+114,"Srinivas, Bhat and Borde",Hyderabad,1.1
+115,Gopal PLC,Pune,1.9
+116,Khalsa-Bhattacharyya,Lucknow,2.2
+117,Chand-Sekhon,Lucknow,4.3
+118,Kuruvilla-Keer,Lucknow,2.7
+119,Krish PLC,Lucknow,2.3
+120,Gour-Sethi,Kolkata,2.9
+121,"Dora, Bandi and Ravi",Jaipur,1.1
+122,"Andra, Kala and Choudhury",Pune,2.3
+123,"Sant, Kalita and Setty",Ahmedabad,1.6
+124,"Ramanathan, Dutta and Thakur",Ahmedabad,1.8
+125,"Raman, Contractor and Suresh",Bengaluru,3.7
+126,Bobal-Dyal,Chennai,2.6
+127,"Joshi, Devi and Bhatt",Lucknow,4.9
+128,"Sinha, Swamy and Kannan",Ahmedabad,3.2
+129,Sarma-Bhavsar,Pune,1.3
+130,"Sengupta, Mannan and Jha",Jaipur,2.5
+131,"Goswami, Ravel and Babu",Chennai,4.0
+132,Brar and Sons,Ahmedabad,3.7
+133,Kata-Deshmukh,Mumbai,1.6
+134,"Datta, Sur and Sachdev",Lucknow,1.7
+135,Handa-Sandal,Pune,3.3
+136,"Vyas, Varty and Dasgupta",Kolkata,5.0
+137,Ram and Sons,Mumbai,4.0
+138,Dara Group,Chennai,3.2
+139,"Ahuja, Krish and Char",Ahmedabad,5.0
+140,Basak Inc,Kolkata,4.7
+141,Soni-Kunda,Bengaluru,2.5
+142,"Ram, Upadhyay and Dalal",Delhi,1.4
+143,Chadha Ltd,Hyderabad,1.8
+144,"Lad, Raman and Bhasin",Delhi,3.3
+145,Lal Group,Bengaluru,4.5
+146,"Batta, Venkataraman and Aggarwal",Kolkata,3.2
+147,"Dugar, Sha and Arya",Pune,4.0
+148,Sankar LLC,Kolkata,4.6
+149,Rao-Banerjee,Chennai,2.3
+150,Mani-Gour,Pune,3.5
+151,Bhakta-Kaul,Pune,3.0
+152,Samra Inc,Jaipur,2.6
+153,Konda-Rege,Kolkata,3.0
+154,Raja PLC,Ahmedabad,2.1
+155,Master LLC,Ahmedabad,1.6
+156,Karan-Tailor,Bengaluru,2.6
+157,Mahal-Kumer,Mumbai,3.1
+158,Garg and Sons,Pune,4.1
+159,Bhat Ltd,Bengaluru,3.7
+160,Chopra Inc,Delhi,2.5
+161,"Salvi, Chakraborty and Chada",Kolkata,4.9
+162,Srinivasan LLC,Kolkata,1.8
+163,"Varughese, Setty and D’Alia",Mumbai,3.5
+164,Warrior-Amble,Bengaluru,3.4
+165,Lanka Group,Jaipur,5.0
+166,"Dhingra, Gaba and Sangha",Lucknow,3.3
+167,Balay-Date,Kolkata,4.8
+168,Khare-Arya,Pune,3.4
+169,"Borah, Karpe and Talwar",Bengaluru,3.3
+170,"Gokhale, Mani and Mani",Ahmedabad,3.7
+171,"Lad, Jain and Kothari",Pune,1.1
+172,"Bajaj, Jayaraman and Balan",Lucknow,4.5
+173,Dewan Inc,Kolkata,3.2
+174,Dhawan-Toor,Hyderabad,4.4
+175,"Banerjee, Kulkarni and Varma",Bengaluru,2.8
+176,Kara Group,Hyderabad,1.7
+177,Tara Inc,Hyderabad,2.3
+178,Dara-Jani,Chennai,1.3
+179,Acharya-Bail,Mumbai,1.8
+180,Vig and Sons,Ahmedabad,2.8
+181,Sibal-Dewan,Lucknow,2.8
+182,"Warrior, Manne and Desai",Hyderabad,4.2
+183,Zacharia-Garg,Ahmedabad,3.0
+184,Subramanian Inc,Delhi,4.2
+185,"Krishna, Raj and Atwal",Pune,4.5
+186,"Sood, Chopra and Dey",Bengaluru,2.0
+187,Bhatt Group,Delhi,1.0
+188,Raja-Contractor,Mumbai,3.7
+189,"Gokhale, Tara and Chaudhuri",Kolkata,4.5
+190,Gola-Bakshi,Ahmedabad,4.4
+191,Chana-Sekhon,Delhi,4.1
+192,Raj-Grover,Chennai,4.5
+193,"Boase, Vora and Bajaj",Jaipur,1.5
+194,Dube-Dhingra,Lucknow,3.6
+195,Saha-Bail,Jaipur,3.9
+196,Ravel-Wable,Ahmedabad,2.9
+197,Badal LLC,Mumbai,2.2
+198,Verma and Sons,Kolkata,4.3
+199,"Rajan, Bhandari and Ahuja",Mumbai,2.5
+200,"Kapur, Buch and Chad",Jaipur,3.5
+201,Wable PLC,Ahmedabad,2.7
+202,"Wable, Ram and Randhawa",Delhi,1.4
+203,Ramakrishnan-Gokhale,Chennai,4.0
+204,"Sankar, Mander and Doctor",Lucknow,4.0
+205,Rajan Group,Delhi,3.9
+206,Sharaf-Mann,Pune,2.7
+207,"Tak, Barad and Kar",Pune,1.6
+208,Gala PLC,Hyderabad,4.2
+209,"Chaudhry, Dara and Manda",Hyderabad,2.1
+210,"Khosla, Suresh and Bose",Pune,3.6
+211,"Gade, Badami and Som",Delhi,2.8
+212,Ramakrishnan Inc,Ahmedabad,4.0
+213,"Chokshi, Thakkar and Brahmbhatt",Chennai,2.4
+214,Wadhwa-Gokhale,Ahmedabad,2.3
+215,Bali-Tripathi,Ahmedabad,3.8
+216,Karan-Gera,Lucknow,2.1
+217,Sarin LLC,Mumbai,4.0
+218,Kaul-Sastry,Bengaluru,3.1
+219,"Chander, Rau and Ram",Mumbai,1.9
+220,Chanda Inc,Pune,3.3
+221,Kurian-Iyengar,Chennai,2.2
+222,Vora PLC,Bengaluru,3.3
+223,Ahuja-Golla,Chennai,2.9
+224,Dugar Ltd,Ahmedabad,3.7
+225,Saraf-Buch,Bengaluru,4.0
+226,"Manne, Comar and Hegde",Bengaluru,1.6
+227,"Dey, Thakkar and Kurian",Chennai,4.4
+228,"Tiwari, Chandran and Golla",Chennai,3.5
+229,Wason Group,Mumbai,4.4
+230,"Mane, Koshy and Dayal",Lucknow,2.2
+231,"Koshy, Seth and Bail",Lucknow,1.0
+232,Sachdev Ltd,Pune,3.9
+233,Sood-Babu,Jaipur,2.6
+234,"Bhat, Dayal and Shetty",Lucknow,4.6
+235,"Baral, Shankar and Sani",Pune,3.6
+236,Behl-Gara,Lucknow,4.4
+237,"Chaudhuri, Mannan and Gokhale",Pune,3.1
+238,Salvi Inc,Kolkata,4.5
+239,Aurora-Deo,Ahmedabad,3.6
+240,"Maharaj, Dugar and Wason",Jaipur,2.9
+241,"Korpal, Dani and Bhattacharyya",Ahmedabad,4.6
+242,Ahuja-Chaudhary,Mumbai,3.7
+243,"Tata, Dar and Konda",Delhi,2.4
+244,"Jani, Sem and Virk",Chennai,1.8
+245,Karnik Group,Bengaluru,2.1
+246,Bhasin PLC,Delhi,3.6
+247,Kale-Das,Pune,3.0
+248,"Wali, Krishna and Kannan",Lucknow,4.7
+249,Bajaj-Tella,Mumbai,4.4
+250,"Chhabra, Bhatnagar and Basu",Jaipur,4.6
+251,Sibal Group,Hyderabad,2.5
+252,"Bahri, Ahuja and Divan",Mumbai,2.6
+253,"Dugal, Devan and Varughese",Delhi,4.8
+254,"Sastry, Raman and Choudhary",Jaipur,1.3
+255,Chhabra-Varughese,Jaipur,4.8
+256,"Agrawal, Ratti and Lala",Jaipur,4.5
+257,"Sarna, Aggarwal and Yadav",Mumbai,2.8
+258,Shenoy Inc,Jaipur,2.0
+259,"Thakkar, Devi and Dhawan",Chennai,4.2
+260,Jhaveri Inc,Bengaluru,3.8
+261,Kara-Desai,Hyderabad,1.9
+262,Khosla Ltd,Ahmedabad,1.7
+263,Saha LLC,Lucknow,2.1
+264,"Majumdar, Anne and Virk",Chennai,1.4
+265,Varghese-Chana,Hyderabad,3.9
+266,Krishnamurthy-Virk,Delhi,4.6
+267,"Chakrabarti, Jayaraman and Wali",Bengaluru,3.1
+268,Sheth-Baral,Mumbai,1.8
+269,Bal-Shroff,Hyderabad,3.3
+270,Bhagat-Bassi,Lucknow,2.9
+271,"Karan, Gara and Dua",Delhi,3.1
+272,Golla Group,Mumbai,2.3
+273,"Tandon, Dhar and Gara",Delhi,1.8
+274,"Mani, Wable and Anne",Delhi,2.8
+275,Dhaliwal-Batra,Ahmedabad,1.8
+276,Randhawa-Yogi,Jaipur,3.4
+277,Vyas and Sons,Lucknow,2.9
+278,"Aggarwal, Saran and Bhagat",Lucknow,1.0
+279,Bhardwaj-Kota,Kolkata,4.4
+280,Talwar-Krishnan,Delhi,3.9
+281,"Bhasin, Kashyap and Barman",Ahmedabad,4.1
+282,Singhal Ltd,Hyderabad,3.4
+283,"Rattan, Chopra and Sharma",Lucknow,4.0
+284,Vala-Dugar,Mumbai,2.0
+285,Gill-Vasa,Kolkata,3.4
+286,Gupta PLC,Ahmedabad,3.5
+287,Sachdeva-Vig,Pune,3.0
+288,"Gokhale, Khalsa and Sama",Jaipur,2.1
+289,Goel Inc,Chennai,2.1
+290,Gupta LLC,Jaipur,2.0
+291,Sundaram-Kota,Chennai,3.7
+292,"Mammen, Viswanathan and Baral",Jaipur,2.2
+293,Kata Ltd,Ahmedabad,1.4
+294,"Choudhary, Devan and Sankaran",Bengaluru,3.0
+295,Soni Ltd,Pune,4.6
+296,Kadakia Group,Jaipur,2.9
+297,Tak-Bajaj,Bengaluru,1.7
+298,"Dewan, Kunda and Hari",Kolkata,3.7
+299,Sur-Chandran,Delhi,4.7
+300,"Dass, Mani and Virk",Ahmedabad,2.4

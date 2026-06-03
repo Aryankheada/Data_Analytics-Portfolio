@@ -1,0 +1,11 @@
+product_name,category,total_returns,total_orders,return_percnt
+Product_1,Beauty,1,1,100.0000
+Product_999,Fashion,3,3,100.0000
+Product_100,Healthcare,4,4,100.0000
+Product_1000,Books,2,2,100.0000
+Product_108,Healthcare,6,6,100.0000
+Product_102,Fashion,6,6,100.0000
+Product_103,Sports,6,6,100.0000
+Product_104,Fashion,1,1,100.0000
+Product_105,Grocery,1,1,100.0000
+Product_106,Sports,2,2,100.0000
