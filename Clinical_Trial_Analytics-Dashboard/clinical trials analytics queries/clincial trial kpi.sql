@@ -1,0 +1,1 @@
+Create database clinical_trial_analytics;

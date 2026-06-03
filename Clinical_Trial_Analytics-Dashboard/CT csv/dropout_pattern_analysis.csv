@@ -1,0 +1,7 @@
+phase,dropout_reason,total_enrolled_patients,dropout_patients,dropout_rate
+Phase I,Adverse Event,52,22,42.31
+Phase III,Lost Follow-up,77,27,35.06
+Phase II,Adverse Event,47,15,31.91
+Phase I,Lost Follow-up,51,16,31.37
+Phase II,Lost Follow-up,38,10,26.32
+Phase III,Adverse Event,76,18,23.68

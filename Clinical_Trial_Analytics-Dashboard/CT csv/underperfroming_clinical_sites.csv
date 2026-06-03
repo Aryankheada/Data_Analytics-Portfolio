@@ -1,0 +1,21 @@
+site_name,hospital_name,total_patients,total_AE,completed_patients,dropout_patients,AE_rate,completion_rate,risk_flag
+Site_20,Hospital_20,24,8,10,10,33.3333,41.67,"High risk"
+Site_10,Hospital_10,20,5,7,4,25.0000,35.00,"High risk"
+Site_14,Hospital_14,23,6,14,5,26.0870,60.87,Medium
+Site_9,Hospital_9,27,7,14,7,25.9259,51.85,Medium
+Site_19,Hospital_19,28,5,14,9,17.8571,50.00,Medium
+Site_7,Hospital_7,24,4,12,5,16.6667,50.00,Medium
+Site_13,Hospital_13,35,5,22,9,14.2857,62.86,Medium
+Site_5,Hospital_5,20,2,11,4,10.0000,55.00,Medium
+Site_3,Hospital_3,25,2,13,9,8.0000,52.00,Medium
+Site_6,Hospital_6,25,2,14,8,8.0000,56.00,Medium
+Site_8,Hospital_8,26,2,13,10,7.6923,50.00,Medium
+Site_12,Hospital_12,14,1,8,5,7.1429,57.14,Medium
+Site_18,Hospital_18,34,2,21,12,5.8824,61.76,Medium
+Site_4,Hospital_4,21,7,14,5,33.3333,66.67,"Low Risk"
+Site_16,Hospital_16,31,5,15,8,16.1290,48.39,"Low Risk"
+Site_1,Hospital_1,21,3,10,7,14.2857,47.62,"Low Risk"
+Site_2,Hospital_2,25,3,11,10,12.0000,44.00,"Low Risk"
+Site_17,Hospital_17,27,3,13,5,11.1111,48.15,"Low Risk"
+Site_15,Hospital_15,27,2,12,6,7.4074,44.44,"Low Risk"
+Site_11,Hospital_11,23,0,7,8,0.0000,30.43,"Low Risk"

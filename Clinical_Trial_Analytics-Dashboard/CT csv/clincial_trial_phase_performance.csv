@@ -1,0 +1,4 @@
+phase,total_trials,avg_enrollment,completed_patients,dropout_patients
+"Phase I",3,555.53,80,49
+"Phase II",2,634.13,68,33
+"Phase III",5,527.50,107,64

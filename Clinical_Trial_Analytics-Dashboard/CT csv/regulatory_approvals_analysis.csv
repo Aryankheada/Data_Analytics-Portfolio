@@ -1,0 +1,11 @@
+phase,trial_name,delay_days,total_patients,total_AE,completed_patients,dropout_patients,completion_rate,dropout_rate,AE_rate,approval_flag
+"Phase III",Trial_8,43,36,5,21,8,58.33,22.22,13.89,"Needs Monitoring"
+"Phase I",Trial_7,42,53,8,30,19,56.60,35.85,15.09,"Needs Monitoring"
+"Phase I",Trial_6,43,64,14,36,17,56.25,26.56,21.88,"Needs Monitoring"
+"Phase II",Trial_10,35,57,10,32,17,56.14,29.82,17.54,"Needs Monitoring"
+"Phase II",Trial_4,44,65,6,36,16,55.38,24.62,9.23,"Needs Monitoring"
+"Phase III",Trial_9,44,44,9,24,15,54.55,34.09,20.45,"Needs Monitoring"
+"Phase III",Trial_1,36,40,4,20,11,50.00,27.50,10.00,"Needs Monitoring"
+"Phase III",Trial_3,44,48,8,23,13,47.92,27.08,16.67,"High risk"
+"Phase III",Trial_2,43,47,3,19,17,40.43,36.17,6.38,"High risk"
+"Phase I",Trial_5,42,46,7,14,13,30.43,28.26,15.22,"High risk"
